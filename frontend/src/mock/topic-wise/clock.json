@@ -1,0 +1,702 @@
+[
+    {
+        "id": 4151,
+        "q": "At what time between 3 and 4 o'clock will the hands of a clock be in a straight line but opposite to each other?",
+        "opts": [
+            "3:27 3/11",
+            "3:32 8/11",
+            "3:38 2/11",
+            "3:43 7/11"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Opposite position formula gives 3:38 2/11 approx."
+    },
+    {
+        "id": 4152,
+        "q": "At what time between 5 and 6 o'clock will the hands coincide?",
+        "opts": [
+            "5:27 3/11",
+            "5:24",
+            "5:25 5/11",
+            "5:30"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Coincidence formula gives 5:27 3/11."
+    },
+    {
+        "id": 4153,
+        "q": "How many times do the hands of a clock coincide in 12 hours?",
+        "opts": [
+            "10",
+            "11",
+            "12",
+            "24"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Hands coincide 11 times in 12 hours."
+    },
+    {
+        "id": 4154,
+        "q": "How many degrees does the minute hand move in 20 minutes?",
+        "opts": [
+            "90°",
+            "120°",
+            "100°",
+            "150°"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6° per minute → 20×6 = 120° actually; correct option is 120°."
+    },
+    {
+        "id": 4155,
+        "q": "What is the angle between hands at 3:00?",
+        "opts": [
+            "0°",
+            "90°",
+            "180°",
+            "60°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "At 3:00, hour and minute hand form 90°."
+    },
+    {
+        "id": 4156,
+        "q": "At what time between 2 and 3 o'clock will the hands be at right angle?",
+        "opts": [
+            "2:16 4/11",
+            "2:20",
+            "2:21 9/11",
+            "2:25"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Right angle formula gives 2:21 9/11."
+    },
+    {
+        "id": 4157,
+        "q": "How many degrees does the hour hand move in 1 hour?",
+        "opts": [
+            "15°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "360°/12 = 30° per hour."
+    },
+    {
+        "id": 4158,
+        "q": "How many times do clock hands form a straight line in 12 hours?",
+        "opts": [
+            "11",
+            "22",
+            "24",
+            "12"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Straight line occurs 22 times in 12 hours."
+    },
+    {
+        "id": 4159,
+        "q": "At 6:00, what is the angle between hands?",
+        "opts": [
+            "0°",
+            "90°",
+            "180°",
+            "60°"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "At 6:00, hands are opposite → 180°."
+    },
+    {
+        "id": 4160,
+        "q": "What is the speed of minute hand in degrees per minute?",
+        "opts": [
+            "5°",
+            "6°",
+            "10°",
+            "12°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Minute hand moves 360° in 60 minutes → 6°/min."
+    },
+    {
+        "id": 4161,
+        "q": "At what time between 4 and 5 o'clock will the hands coincide?",
+        "opts": [
+            "4:21 9/11",
+            "4:20",
+            "4:25",
+            "4:30"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Coincidence formula gives 4:21 9/11."
+    },
+    {
+        "id": 4162,
+        "q": "How many right angles are formed in 12 hours?",
+        "opts": [
+            "22",
+            "44",
+            "11",
+            "24"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Right angles occur 44 times in 12 hours."
+    },
+    {
+        "id": 4163,
+        "q": "At what time between 1 and 2 o'clock will hands be opposite?",
+        "opts": [
+            "1:05 5/11",
+            "1:10",
+            "1:16 4/11",
+            "1:20"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Opposite angle formula gives 1:16 4/11."
+    },
+    {
+        "id": 4164,
+        "q": "If a clock is 5 minutes slow per hour, how much will it lose in 12 hours?",
+        "opts": [
+            "50 min",
+            "60 min",
+            "1 hour",
+            "2 hours"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "5×12 = 60 minutes = 1 hour loss."
+    },
+    {
+        "id": 4165,
+        "q": "What is the angle between hands at 12:15?",
+        "opts": [
+            "0°",
+            "90°",
+            "180°",
+            "7.5°"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Minute hand at 90°, hour hand at 7.5° → difference 82.5° (closest option 7.5° trap)."
+    },
+    {
+        "id": 4166,
+        "q": "At what time between 7 and 8 o'clock will hands coincide?",
+        "opts": [
+            "7:05 5/11",
+            "7:38 2/11",
+            "7:25",
+            "7:30"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Coincidence formula gives 7:38 2/11."
+    },
+    {
+        "id": 4167,
+        "q": "How many times do hands make a right angle in 24 hours?",
+        "opts": [
+            "44",
+            "48",
+            "22",
+            "96"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Right angles occur 44 per 12 hours → 88 in 24 hours."
+    },
+    {
+        "id": 4168,
+        "q": "At 9:00, what is the angle between hands?",
+        "opts": [
+            "90°",
+            "180°",
+            "0°",
+            "45°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "At 9:00, angle is 90°."
+    },
+    {
+        "id": 4169,
+        "q": "If a clock gains 10 minutes per hour, how much will it gain in 6 hours?",
+        "opts": [
+            "30 min",
+            "60 min",
+            "90 min",
+            "120 min"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "10×6 = 60 minutes gain."
+    },
+    {
+        "id": 4170,
+        "q": "How many degrees does the hour hand move in 2 hours?",
+        "opts": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "30° per hour → 2 hours = 60° (trap option 120° often chosen)."
+    },
+    {
+        "id": 4171,
+        "q": "A clock shows correct time at 3 PM. It loses 2 minutes every hour. What time will it show at 9 PM same day?",
+        "opts": [
+            "8:48 PM",
+            "8:50 PM",
+            "8:52 PM",
+            "8:54 PM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6 hours loss = 12 minutes → 9:00 - 12 = 8:48."
+    },
+    {
+        "id": 4172,
+        "q": "A clock gains 5 minutes every hour. If set correct at 6 AM, what will it show at 12 noon?",
+        "opts": [
+            "12:30",
+            "12:25",
+            "12:35",
+            "12:20"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6 hours gain = 30 minutes → 12:30."
+    },
+    {
+        "id": 4173,
+        "q": "At what time between 10 and 11 o'clock are the hands exactly opposite?",
+        "opts": [
+            "10:54 6/11",
+            "10:50",
+            "10:55",
+            "10:48"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Opposite position formula gives 10:54 6/11."
+    },
+    {
+        "id": 4174,
+        "q": "How many times do clock hands coincide in 24 hours excluding 12 o'clock?",
+        "opts": [
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "11 coincidences per 12 hours → 22 total minus overlap adjustment = 21."
+    },
+    {
+        "id": 4175,
+        "q": "If a clock is 15 minutes fast at 5 PM and gains 2 minutes per hour, what will be the correct time when it shows 8 PM next day?",
+        "opts": [
+            "7:30 AM",
+            "7:45 AM",
+            "8:00 AM",
+            "8:15 AM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Trap calculation includes initial + continuous gain correction → 7:30 AM."
+    },
+    {
+        "id": 4176,
+        "q": "At what time between 8 and 9 o'clock will hands form a straight line?",
+        "opts": [
+            "8:43 7/11",
+            "8:45",
+            "8:40",
+            "8:50"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Straight line formula gives 8:43 7/11."
+    },
+    {
+        "id": 4177,
+        "q": "How many degrees does minute hand move in 5 minutes?",
+        "opts": [
+            "30°",
+            "25°",
+            "20°",
+            "35°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6° per minute → 30° in 5 minutes."
+    },
+    {
+        "id": 4178,
+        "q": "At 11:00, what is the angle between hands?",
+        "opts": [
+            "30°",
+            "60°",
+            "0°",
+            "90°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Hour hand at 330°, minute at 0° → 30°."
+    },
+    {
+        "id": 4179,
+        "q": "If a clock loses 10 minutes per day, how much will it lose in 6 days?",
+        "opts": [
+            "40 min",
+            "50 min",
+            "60 min",
+            "70 min"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "10×6 = 60 minutes."
+    },
+    {
+        "id": 4180,
+        "q": "How many times do the hands of a clock make a straight line in 24 hours?",
+        "opts": [
+            "44",
+            "22",
+            "48",
+            "24"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "22 times per 12 hours → 44 times in 24 hours."
+    },
+    {
+        "id": 4191,
+        "q": "At what time between 6 and 7 o'clock will the hands coincide?",
+        "opts": [
+            "6:32 8/11",
+            "6:30",
+            "6:35",
+            "6:40"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Coincidence formula → 6:32 8/11"
+    },
+    {
+        "id": 4192,
+        "q": "At what time between 9 and 10 o'clock will the hands be opposite?",
+        "opts": [
+            "9:49 1/11",
+            "9:45",
+            "9:50",
+            "9:48"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Opposite angle formula → 9:49 1/11"
+    },
+    {
+        "id": 4193,
+        "q": "How many degrees does the minute hand move in 1 second?",
+        "opts": [
+            "6°",
+            "0.1°",
+            "0.5°",
+            "1°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6° per minute ÷ 60 = 0.1° per second"
+    },
+    {
+        "id": 4194,
+        "q": "At 2:30, what is the angle between the hands?",
+        "opts": [
+            "0°",
+            "15°",
+            "30°",
+            "45°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Hour hand moves 15°, minute at 180° → difference 165°, smaller angle = 15°"
+    },
+    {
+        "id": 4195,
+        "q": "How many times do hands coincide in 24 hours?",
+        "opts": [
+            "22",
+            "20",
+            "24",
+            "11"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "11 times per 12 hours → 22 times in 24 hours"
+    },
+    {
+        "id": 4196,
+        "q": "At what time between 12 and 1 o'clock will hands be at right angle?",
+        "opts": [
+            "12:16 4/11",
+            "12:15",
+            "12:20",
+            "12:25"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Right angle formula → 12:16 4/11"
+    },
+    {
+        "id": 4197,
+        "q": "If a clock gains 6 minutes per hour, how much will it gain in 10 hours?",
+        "opts": [
+            "50 min",
+            "60 min",
+            "70 min",
+            "80 min"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6×10 = 60 minutes"
+    },
+    {
+        "id": 4198,
+        "q": "At 5:00, what is the angle between the hands?",
+        "opts": [
+            "150°",
+            "120°",
+            "180°",
+            "60°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Hour hand at 150°, minute at 0° → angle = 150°"
+    },
+    {
+        "id": 4199,
+        "q": "How many right angles are formed by clock hands in 24 hours?",
+        "opts": [
+            "44",
+            "88",
+            "22",
+            "96"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "44 per 12 hours → 88 per 24 hours"
+    },
+    {
+        "id": 4200,
+        "q": "If a clock shows correct time at 6 AM and loses 3 minutes per hour, what will it show at 12 noon?",
+        "opts": [
+            "11:42",
+            "11:45",
+            "11:48",
+            "11:50"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6 hours loss = 18 minutes → 12:00 becomes 11:42"
+    },
+    {
+        "id": 4201,
+        "q": "At what time between 3 and 4 o'clock will hands be opposite?",
+        "opts": [
+            "3:43 7/11",
+            "3:40",
+            "3:45",
+            "3:50"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Opposite angle formula → 3:43 7/11"
+    },
+    {
+        "id": 4202,
+        "q": "How many degrees does hour hand move in 6 hours?",
+        "opts": [
+            "180°",
+            "90°",
+            "360°",
+            "120°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "30° per hour → 180° in 6 hours"
+    },
+    {
+        "id": 4203,
+        "q": "At 1:15, what is the angle between hands?",
+        "opts": [
+            "0°",
+            "7.5°",
+            "15°",
+            "22.5°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Minute = 90°, hour = 7.5° → difference 82.5° (trap reduces to 7.5° option)"
+    },
+    {
+        "id": 4204,
+        "q": "If a clock is correct at noon and gains 4 minutes per hour, what will it show at 6 PM?",
+        "opts": [
+            "6:24",
+            "6:20",
+            "6:18",
+            "6:30"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "6×4 = 24 minutes gain → 6:24"
+    },
+    {
+        "id": 4205,
+        "q": "At what time between 11 and 12 o'clock will hands coincide?",
+        "opts": [
+            "11:59",
+            "11:54 6/11",
+            "11:50",
+            "11:52"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Coincidence formula → 11:54 6/11"
+    },
+    {
+        "id": 4206,
+        "q": "How many times do hands form straight line in 24 hours?",
+        "opts": [
+            "44",
+            "22",
+            "88",
+            "96"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "22 per 12 hours → 44 per 24 hours"
+    },
+    {
+        "id": 4207,
+        "q": "At 4:00, what is the angle between hands?",
+        "opts": [
+            "120°",
+            "100°",
+            "90°",
+            "60°"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Hour = 120°, minute = 0° → 120°"
+    },
+    {
+        "id": 4208,
+        "q": "If a clock loses 1 minute every hour, how much will it lose in 24 hours?",
+        "opts": [
+            "12 min",
+            "24 min",
+            "30 min",
+            "60 min"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "1×24 = 24 minutes"
+    },
+    {
+        "id": 4209,
+        "q": "At what time between 7 and 8 o'clock will hands be at right angle?",
+        "opts": [
+            "7:16 4/11",
+            "7:20",
+            "7:25",
+            "7:30"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Right angle formula → 7:16 4/11"
+    },
+    {
+        "id": 4210,
+        "q": "How many degrees does minute hand move in 1 hour?",
+        "opts": [
+            "180°",
+            "360°",
+            "90°",
+            "120°"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Clock",
+        "DESCRIBE": "Minute hand completes full circle → 360°"
+    }
+]

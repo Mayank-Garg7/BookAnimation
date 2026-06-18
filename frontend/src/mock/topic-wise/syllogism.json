@@ -1,0 +1,632 @@
+[
+    {
+        "id": 4001,
+        "q": "Statements: All pens are books. Some books are tables. Conclusions: I. Some pens are tables. II. Some books are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Some books are tables does not guarantee pens-table relation. But all pens are books → some books are pens is valid."
+    },
+    {
+        "id": 4002,
+        "q": "Statements: Some cars are bikes. All bikes are buses. Conclusions: I. Some cars are buses. II. All buses are bikes.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Some cars → bikes → buses gives some cars are buses. Reverse not valid."
+    },
+    {
+        "id": 4003,
+        "q": "Statements: All fruits are apples. All apples are mangoes. Conclusions: I. All fruits are mangoes. II. Some mangoes are fruits.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "All fruits → apples → mangoes. So both conclusions follow."
+    },
+    {
+        "id": 4004,
+        "q": "Statements: Some pens are pencils. No pencil is eraser. Conclusions: I. Some pens are not erasers. II. Some erasers are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Pencils and erasers are disjoint → some pens linked to pencils cannot be erasers."
+    },
+    {
+        "id": 4005,
+        "q": "Statements: All dogs are cats. Some cats are rats. Conclusions: I. Some dogs are rats. II. Some cats are dogs.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Dogs ⊂ cats so some cats are dogs is valid."
+    },
+    {
+        "id": 4006,
+        "q": "Statements: Some chairs are tables. All tables are wood. Conclusions: I. Some chairs are wood. II. All wood are tables.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Some chairs → tables → wood gives some chairs are wood."
+    },
+    {
+        "id": 4007,
+        "q": "Statements: All A are B. No B is C. Conclusions: I. No A is C. II. Some C are A.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "A ⊂ B and B disjoint C → A disjoint C."
+    },
+    {
+        "id": 4008,
+        "q": "Statements: Some mobiles are laptops. Some laptops are tablets. Conclusions: I. Some mobiles are tablets. II. Some laptops are mobiles.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse of 'some mobiles are laptops' is valid."
+    },
+    {
+        "id": 4009,
+        "q": "Statements: All pens are ink. Some ink are water. Conclusions: I. Some pens are water. II. Some ink are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "All pens ⊂ ink → some ink are pens."
+    },
+    {
+        "id": 4010,
+        "q": "Statements: No apple is mango. Some mango are banana. Conclusions: I. Some apple are banana. II. Some banana are mango.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only II follows from 'some mango are banana'."
+    },
+    {
+        "id": 4011,
+        "q": "Statements: All cats are animals. Some animals are birds. Conclusions: I. Some cats are birds. II. Some animals are cats.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Cats ⊂ animals → some animals are cats."
+    },
+    {
+        "id": 4012,
+        "q": "Statements: Some A are B. Some B are C. No C is D. Conclusions: I. Some A are not D. II. Some B are not D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "B overlaps A and C; C disjoint D → both A and B partially not D."
+    },
+    {
+        "id": 4013,
+        "q": "Statements: All dogs are pets. All pets are animals. Conclusions: I. All dogs are animals. II. Some animals are dogs.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Transitive relation gives both conclusions."
+    },
+    {
+        "id": 4014,
+        "q": "Statements: Some fruits are sweet. Some sweet are sour. Conclusions: I. Some fruits are sour. II. Some sweet are fruits.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse of 'some fruits are sweet' is valid."
+    },
+    {
+        "id": 4015,
+        "q": "Statements: No pen is pencil. Some pencils are erasers. Conclusions: I. Some erasers are not pens. II. Some pencils are not pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Pencil overlaps eraser but disjoint pen → both follow."
+    },
+    {
+        "id": 4016,
+        "q": "Statements: All pens are books. Some books are tables. Conclusions: I. Some pens are tables. II. Some books are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "All pens ⊂ books → reversible conclusion gives some books are pens. No definite link to tables."
+    },
+    {
+        "id": 4017,
+        "q": "Statements: Some cars are bikes. All bikes are trains. Conclusions: I. Some cars are trains. II. All trains are bikes.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Some cars → bikes → trains gives some cars are trains. Reverse invalid."
+    },
+    {
+        "id": 4018,
+        "q": "Statements: All A are B. Some B are C. No C is D. Conclusions: I. Some A are not D. II. Some B are not D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "C disjoint D and B overlaps C → both A and B partially outside D."
+    },
+    {
+        "id": 4019,
+        "q": "Statements: No pen is pencil. Some pencils are erasers. Conclusions: I. Some erasers are not pens. II. Some pencils are not pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Pencil overlaps eraser but disjoint pen → both conclusions true."
+    },
+    {
+        "id": 4020,
+        "q": "Statements: All dogs are cats. Some cats are rats. Conclusions: I. Some dogs are rats. II. Some cats are dogs.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Dogs ⊂ cats → reverse gives some cats are dogs."
+    },
+    {
+        "id": 4021,
+        "q": "Statements: Some chairs are tables. All tables are wood. Conclusions: I. Some chairs are wood. II. All wood are tables.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Some chairs → tables → wood gives some chairs are wood."
+    },
+    {
+        "id": 4022,
+        "q": "Statements: All A are B. No B is C. Conclusions: I. No A is C. II. Some C are A.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "A ⊂ B and B disjoint C → A disjoint C."
+    },
+    {
+        "id": 4023,
+        "q": "Statements: Some mobiles are laptops. Some laptops are tablets. Conclusions: I. Some mobiles are tablets. II. Some laptops are mobiles.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse of 'some mobiles are laptops' follows."
+    },
+    {
+        "id": 4024,
+        "q": "Statements: All pens are ink. Some ink are water. Conclusions: I. Some pens are water. II. Some ink are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "All pens ⊂ ink → some ink are pens."
+    },
+    {
+        "id": 4025,
+        "q": "Statements: No apple is mango. Some mango are banana. Conclusions: I. Some apple are banana. II. Some banana are mango.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only second conclusion follows directly."
+    },
+    {
+        "id": 4026,
+        "q": "Statements: All cats are animals. Some animals are birds. Conclusions: I. Some cats are birds. II. Some animals are cats.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Cats ⊂ animals → some animals are cats."
+    },
+    {
+        "id": 4027,
+        "q": "Statements: Some A are B. Some B are C. No C is D. Conclusions: I. Some A are not D. II. Some B are not D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "B overlaps A and C; C disjoint D → both conclusions true."
+    },
+    {
+        "id": 4028,
+        "q": "Statements: All dogs are pets. All pets are animals. Conclusions: I. All dogs are animals. II. Some animals are dogs.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Transitive chain gives both conclusions."
+    },
+    {
+        "id": 4029,
+        "q": "Statements: Some fruits are sweet. Some sweet are sour. Conclusions: I. Some fruits are sour. II. Some sweet are fruits.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse relation is valid."
+    },
+    {
+        "id": 4030,
+        "q": "Statements: No pen is pencil. Some pencils are erasers. Conclusions: I. Some erasers are not pens. II. Some pencils are not pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Pencil overlaps eraser but disjoint pen → both follow."
+    },
+    {
+        "id": 4031,
+        "q": "Statements: All teachers are educated. Some educated are doctors. Conclusions: I. Some doctors are teachers. II. Some educated are teachers.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse of subset relation holds."
+    },
+    {
+        "id": 4032,
+        "q": "Statements: Some A are B. All B are C. Some C are D. Conclusions: I. Some A are D. II. Some B are D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "No definite connection from A to D or B to D."
+    },
+    {
+        "id": 4033,
+        "q": "Statements: All birds are animals. No animal is plant. Conclusions: I. No bird is plant. II. Some plants are birds.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Bird ⊂ animal, animal disjoint plant → I true."
+    },
+    {
+        "id": 4034,
+        "q": "Statements: Some students are boys. Some boys are players. Conclusions: I. Some students are players. II. Some boys are students.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse relation valid."
+    },
+    {
+        "id": 4035,
+        "q": "Statements: All A are B. Some B are C. No C is D. Conclusions: I. Some A are not D. II. Some B are not D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Standard mixed restriction pattern both conclusions valid."
+    },
+    {
+        "id": 4036,
+        "q": "Statements: Some pens are books. All books are papers. Conclusions: I. Some pens are papers. II. Some papers are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Pen → book → paper gives both conclusions."
+    },
+    {
+        "id": 4037,
+        "q": "Statements: No A is B. Some B are C. All C are D. Conclusions: I. Some D are not A. II. Some B are not A.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "A disjoint B, B overlaps C → both conclusions true."
+    },
+    {
+        "id": 4038,
+        "q": "Statements: Some fruits are apples. Some apples are mangoes. Conclusions: I. Some fruits are mangoes. II. Some apples are fruits.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse relation valid."
+    },
+    {
+        "id": 4039,
+        "q": "Statements: All A are B. No B is C. Some C are D. Conclusions: I. Some D are not A. II. Some A are D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "A ⊂ B, B disjoint C → A cannot relate to C/D overlap."
+    },
+    {
+        "id": 4040,
+        "q": "Statements: Some chairs are tables. All tables are wood. Some wood are metal. Conclusions: I. Some chairs are metal. II. Some wood are chairs.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse subset relation possible."
+    },
+    {
+        "id": 4041,
+        "q": "Statements: Some A are B. No B is C. Some C are D. Conclusions: I. Some D are not B. II. Some A may be C.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "C overlaps D but disjoint B → I definite true, II not possible due to B-C separation."
+    },
+    {
+        "id": 4042,
+        "q": "Statements: All A are B. Some B are C. No C is D. Conclusions: I. Some A are not D. II. Some B are not D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "A ⊂ B, B partially C, C disjoint D → both A and B partly not D."
+    },
+    {
+        "id": 4043,
+        "q": "Statements: Some pens are books. All books are papers. Some papers are ink. Conclusions: I. Some pens are ink. II. Some papers are pens.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "Only reverse chain from pens→books valid, ink link not definite."
+    },
+    {
+        "id": 4044,
+        "q": "Statements: No A is B. Some B are C. All C are D. Conclusions: I. Some D are not A. II. Some B are not A.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "B overlaps C and C ⊂ D but B disjoint A → both conclusions true."
+    },
+    {
+        "id": 4045,
+        "q": "Statements: Some A are B. Some B are C. Some C are D. Conclusions: I. Some A may be D. II. Some B may be D.",
+        "opts": [
+            "Only I follows",
+            "Only II follows",
+            "Both follow",
+            "Neither follows"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Syllogism",
+        "DESCRIBE": "All are 'some' statements → possibility-based conclusions valid."
+    }
+]
