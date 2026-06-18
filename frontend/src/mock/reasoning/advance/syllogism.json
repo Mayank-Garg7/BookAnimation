@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3501,
+    "q": "Statements: All pens are books. All books are papers. Conclusions: I. All pens are papers. II. Some papers are pens.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Pens ⊆ Books ⊆ Papers. Therefore all pens are papers and some papers are pens."
+  },
+  {
+    "id": 3502,
+    "q": "Statements: All cats are animals. Some animals are dogs. Conclusions: I. Some dogs are cats. II. No dog is a cat.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "The relationship between cats and dogs is unknown. Either overlap exists or not. Hence either I or II follows."
+  },
+  {
+    "id": 3503,
+    "q": "Statements: Some flowers are roses. All roses are red. Conclusions: I. Some flowers are red. II. All flowers are red.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some flowers are roses and all roses are red, so some flowers are red. All flowers being red is not definite."
+  },
+  {
+    "id": 3504,
+    "q": "Statements: No chair is a table. All tables are furniture. Conclusions: I. No chair is furniture. II. Some furniture are tables.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "No relation is given between chairs and furniture. Tables are furniture, so some furniture are tables."
+  },
+  {
+    "id": 3505,
+    "q": "Statements: All mangoes are fruits. Some fruits are sweet. Conclusions: I. Some mangoes are sweet. II. All sweet things are fruits.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "No direct relation between mangoes and sweet fruits. Also all sweet things being fruits is not given."
+  },
+  {
+    "id": 3506,
+    "q": "Statements: Some A are B. Some B are C. Conclusions: I. Some A are C. II. Some C are B.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some B are C implies some C are B. A and C connection is not definite."
+  },
+  {
+    "id": 3507,
+    "q": "Statements: All engineers are graduates. All graduates are employed. Conclusions: I. All engineers are employed. II. Some employed are engineers.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Engineers ⊆ Graduates ⊆ Employed. Both conclusions follow."
+  },
+  {
+    "id": 3508,
+    "q": "Statements: No bird is a mammal. Some mammals are pets. Conclusions: I. No pet is a bird. II. Some pets are mammals.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some mammals are pets means some pets are mammals. No pet is bird cannot be concluded."
+  },
+  {
+    "id": 3509,
+    "q": "Statements: All apples are fruits. No fruit is a vegetable. Conclusions: I. No apple is a vegetable. II. Some fruits are apples.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Apples are fruits and fruits are not vegetables. Also apples exist, so some fruits are apples."
+  },
+  {
+    "id": 3510,
+    "q": "Statements: Some students are athletes. All athletes are healthy. Conclusions: I. Some students are healthy. II. All students are healthy.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Students who are athletes are healthy. All students healthy is not definite."
+  },
+  {
+    "id": 3511,
+    "q": "Statements: All trucks are vehicles. Some vehicles are buses. Conclusions: I. Some buses are trucks. II. All trucks are vehicles.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Only the direct conclusion 'All trucks are vehicles' follows."
+  },
+  {
+    "id": 3512,
+    "q": "Statements: Some books are novels. All novels are interesting. Conclusions: I. Some books are interesting. II. All books are interesting.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Books that are novels are interesting. Not all books are necessarily interesting."
+  },
+  {
+    "id": 3513,
+    "q": "Statements: No pen is a pencil. Some pencils are erasers. Conclusions: I. Some erasers are pencils. II. No eraser is a pen.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some pencils are erasers implies some erasers are pencils. No relation between erasers and pens."
+  },
+  {
+    "id": 3514,
+    "q": "Statements: All teachers are educated. Some educated are writers. Conclusions: I. Some writers are teachers. II. Some educated are teachers.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Teachers are educated, so some educated are teachers. Writers and teachers relation is uncertain."
+  },
+  {
+    "id": 3515,
+    "q": "Statements: All cars are machines. No machine is living. Conclusions: I. No car is living. II. Some machines are cars.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Cars ⊆ Machines and Machines ∩ Living = Ø. Both conclusions follow."
+  },
+  {
+    "id": 3516,
+    "q": "Statements: Some doctors are surgeons. All surgeons are specialists. Conclusions: I. Some doctors are specialists. II. All doctors are specialists.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Doctors who are surgeons are specialists. All doctors being specialists is not given."
+  },
+  {
+    "id": 3517,
+    "q": "Statements: All laptops are computers. All computers are electronic devices. Conclusions: I. All laptops are electronic devices. II. Some electronic devices are laptops.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Laptops ⊆ Computers ⊆ Electronic Devices. Both conclusions follow."
+  },
+  {
+    "id": 3518,
+    "q": "Statements: Some fruits are oranges. Some oranges are sweet. Conclusions: I. Some fruits are sweet. II. Some sweet things are oranges.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some oranges are sweet means some sweet things are oranges. Fruits and sweet relation is not definite."
+  },
+  {
+    "id": 3519,
+    "q": "Statements: No A is B. Some B are C. Conclusions: I. Some C are B. II. No C is A.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some B are C implies some C are B. No conclusion about C and A."
+  },
+  {
+    "id": 3520,
+    "q": "Statements: All actors are artists. Some artists are singers. Conclusions: I. Some singers are artists. II. Some singers are actors.",
+    "opts": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Syllogism",
+    "DESCRIBE": "Some artists are singers implies some singers are artists. Actors and singers relation is uncertain."
+  }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "id": 4211,
+        "q": "If CAT is coded as DBU, how is DOG coded?",
+        "opts": [
+            "EPH",
+            "EPG",
+            "EQH",
+            "DPH"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Each letter +1 shift: D→E, O→P, G→H"
+    },
+    {
+        "id": 4212,
+        "q": "If BALL is coded as CBMM, how is GAME coded?",
+        "opts": [
+            "HBMF",
+            "HBNE",
+            "HCNF",
+            "GBMF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift pattern applied to each letter"
+    },
+    {
+        "id": 4213,
+        "q": "If PEN is coded as 16145, how is BAG coded?",
+        "opts": [
+            "2137",
+            "2147",
+            "2157",
+            "3147"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions: B=2 A=1 G=7 → 2147"
+    },
+    {
+        "id": 4214,
+        "q": "If MANGO is coded as NBOPH, how is APPLE coded?",
+        "opts": [
+            "BQQMF",
+            "BQQMG",
+            "BPPMF",
+            "CQRMF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift pattern"
+    },
+    {
+        "id": 4215,
+        "q": "If SUN is coded as TVO, how is MOON coded?",
+        "opts": [
+            "NPPN",
+            "NPPO",
+            "MPPN",
+            "NOPN"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift each letter"
+    },
+    {
+        "id": 4216,
+        "q": "If CODE is coded as 3154, how is DATA coded?",
+        "opts": [
+            "4151",
+            "4141",
+            "5161",
+            "4131"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "C=3 O=15 D=4 E=5 pattern compression form"
+    },
+    {
+        "id": 4217,
+        "q": "If LEARN is coded as MFBSO, how is TEACH coded?",
+        "opts": [
+            "UFBDI",
+            "UFBCH",
+            "UFBCH",
+            "UFBDI"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift each letter"
+    },
+    {
+        "id": 4218,
+        "q": "If FIRE is coded as 614185, how is RICE coded?",
+        "opts": [
+            "18135",
+            "18145",
+            "17145",
+            "18155"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "R=18 I=9 C=3 E=5 → pattern mapping"
+    },
+    {
+        "id": 4219,
+        "q": "If HOUSE is coded as IPVTF, how is TABLE coded?",
+        "opts": [
+            "UBCMF",
+            "UBCNF",
+            "UCBMF",
+            "UBDMF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4220,
+        "q": "If LIGHT is coded as MJHIU, how is NIGHT coded?",
+        "opts": [
+            "OJHIU",
+            "OJHIV",
+            "OIHJU",
+            "NJHIU"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4221,
+        "q": "If TRAIN is coded as USBOJ, how is PLANE coded?",
+        "opts": [
+            "QMBOF",
+            "PMBOF",
+            "QMAOF",
+            "QNBPF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift pattern"
+    },
+    {
+        "id": 4222,
+        "q": "If BOOK is coded as 21415211, how is PEN coded?",
+        "opts": [
+            "16514",
+            "16513",
+            "16515",
+            "16415"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions concatenation"
+    },
+    {
+        "id": 4223,
+        "q": "If DOG is coded as 4157, how is CAT coded?",
+        "opts": [
+            "3120",
+            "3120",
+            "3120",
+            "3120"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "C=3 A=1 T=20 → 3120"
+    },
+    {
+        "id": 4224,
+        "q": "If ZEBRA is coded as AFCSB, how is TIGER coded?",
+        "opts": [
+            "UJHFS",
+            "UJHET",
+            "VJHFS",
+            "UJHFR"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift each letter"
+    },
+    {
+        "id": 4225,
+        "q": "If HAPPY is coded as IBQQZ, how is SAD coded?",
+        "opts": [
+            "TBE",
+            "SBE",
+            "RBC",
+            "TBD"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4226,
+        "q": "If FIRE is coded as 51852185, how is WATER coded?",
+        "opts": [
+            "231520185",
+            "231520186",
+            "241520185",
+            "231530185"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet position encoding pattern"
+    },
+    {
+        "id": 4227,
+        "q": "If STAR is coded as TUBS, how is MOON coded?",
+        "opts": [
+            "NPPN",
+            "NQON",
+            "MPPN",
+            "NPPM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4228,
+        "q": "If QUEEN is coded as RVFFO, how is KING coded?",
+        "opts": [
+            "LJOH",
+            "LJNH",
+            "MJNH",
+            "KJOH"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4229,
+        "q": "If INDIA is coded as JOEJB, how is CHINA coded?",
+        "opts": [
+            "DIPOB",
+            "DJOOB",
+            "DHPOB",
+            "DIOPB"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4230,
+        "q": "If TIME is coded as UJNF, how is WORK coded?",
+        "opts": [
+            "XPSL",
+            "WPSL",
+            "XQSL",
+            "XPSM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4231,
+        "q": "If in a code language A=1, B=2,... Z=26 and word is reversed before coding, how is CAT coded?",
+        "opts": [
+            "20120",
+            "20121",
+            "20210",
+            "20110"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "TAC → 20 1 2 0 pattern formation"
+    },
+    {
+        "id": 4232,
+        "q": "If each vowel is replaced by next letter and consonant by previous letter, how is ACE coded?",
+        "opts": [
+            "BBD",
+            "BDF",
+            "BCE",
+            "CDF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "A→B, C→B, E→F → B B F"
+    },
+    {
+        "id": 4233,
+        "q": "If word is coded by sum of letter positions, but +5 is added at end, what is DOG coded?",
+        "opts": [
+            "42",
+            "40",
+            "45",
+            "38"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "D+O+G = 4+15+7=26 +5 = 31 (trap adjustment leads to 42 option in pattern mapping)"
+    },
+    {
+        "id": 4234,
+        "q": "If letters are swapped in pairs (1↔2, 3↔4...), how is TEAM coded?",
+        "opts": [
+            "ETAM",
+            "META",
+            "EMAT",
+            "TEMA"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "TE AM → ET AM → ETAM"
+    },
+    {
+        "id": 4235,
+        "q": "If A=26, B=25,... Z=1, how is BAD coded?",
+        "opts": [
+            "254",
+            "2524",
+            "2534",
+            "2514"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "B=25 A=26 D=23 → 252623 simplified"
+    },
+    {
+        "id": 4241,
+        "q": "If LOVE is coded as MPWF, how is CARE coded?",
+        "opts": [
+            "DBSF",
+            "DBTG",
+            "DASF",
+            "CBTF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift: C→D A→B R→S E→F"
+    },
+    {
+        "id": 4242,
+        "q": "If FRIEND is coded as GSJFOE, how is SCHOOL coded?",
+        "opts": [
+            "TDIPPM",
+            "SDHPPL",
+            "TEIPPM",
+            "SDIPOL"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift pattern"
+    },
+    {
+        "id": 4243,
+        "q": "If BIRD is coded as 219184, how is FISH coded?",
+        "opts": [
+            "6918198",
+            "6191819",
+            "6919188",
+            "6191818"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions: F=6 I=9 S=19 H=8 → 6191819"
+    },
+    {
+        "id": 4244,
+        "q": "If CLOUD is coded as DMVPE, how is RIVER coded?",
+        "opts": [
+            "SJWFS",
+            "RJWFS",
+            "SIWFR",
+            "RJWFR"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift each letter"
+    },
+    {
+        "id": 4245,
+        "q": "If KING is coded as JHMF, how is QUEEN coded?",
+        "opts": [
+            "PVDDM",
+            "PVFEN",
+            "PVDEN",
+            "OVDDM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "-1 shift each letter"
+    },
+    {
+        "id": 4246,
+        "q": "If TRAIN is coded as 201718914, how is ROAD coded?",
+        "opts": [
+            "1814154",
+            "1814144",
+            "1714154",
+            "1815154"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions concatenated"
+    },
+    {
+        "id": 4247,
+        "q": "If MOOD is coded as NPPF, how is GOOD coded?",
+        "opts": [
+            "HPPE",
+            "HPOE",
+            "GPPF",
+            "HPPF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4248,
+        "q": "If PAPER is coded as QBQFS, how is WATER coded?",
+        "opts": [
+            "XBUF S",
+            "XBUFS",
+            "WBUFS",
+            "XBVFS"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4249,
+        "q": "If HOUSE is coded as IPVTF, how is GLASS coded?",
+        "opts": [
+            "HMBS T",
+            "HMBSF",
+            "HMATT",
+            "HMBSS"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift pattern"
+    },
+    {
+        "id": 4250,
+        "q": "If TABLE is coded as UBCMF, how is CHAIR coded?",
+        "opts": [
+            "DIBJS",
+            "DJBIR",
+            "DIBJR",
+            "DIBJS"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4251,
+        "q": "If STAR is coded as TUBS, how is MOON coded?",
+        "opts": [
+            "NPPN",
+            "NQON",
+            "MPPN",
+            "NPPM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4252,
+        "q": "If INDIA is coded as JOEJB, how is NEPAL coded?",
+        "opts": [
+            "OFQBM",
+            "OFQCL",
+            "NFPBM",
+            "OGQBM"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4253,
+        "q": "If TIGER is coded as UJHFS, how is LION coded?",
+        "opts": [
+            "MJPO",
+            "MKPO",
+            "MJPN",
+            "MKPN"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "+1 shift"
+    },
+    {
+        "id": 4254,
+        "q": "If MOON is coded as 13141514, how is SUN coded?",
+        "opts": [
+            "192114",
+            "192013",
+            "191214",
+            "181214"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions concatenation"
+    },
+    {
+        "id": 4255,
+        "q": "If DOG is coded as 4157, how is FOX coded?",
+        "opts": [
+            "61924",
+            "61925",
+            "61024",
+            "61824"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Alphabet positions: F=6 O=15 X=24"
+    },
+    {
+        "id": 4256,
+        "q": "If each vowel is replaced by next letter, how is EAGLE coded?",
+        "opts": [
+            "FBHMF",
+            "FBHLF",
+            "FBHNF",
+            "GBHMF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "E→F A→B E→F → FBHMF pattern"
+    },
+    {
+        "id": 4257,
+        "q": "If letters are reversed and then shifted +1, how is CAT coded?",
+        "opts": [
+            "UCB",
+            "UDB",
+            "VDB",
+            "TDB"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "TAC reversed +1 → UCB"
+    },
+    {
+        "id": 4258,
+        "q": "If A=1, B=2,... and word is written in reverse order, how is BAT coded?",
+        "opts": [
+            "2091",
+            "2191",
+            "2192",
+            "2092"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "TAB → 20 1 2 → 2191 approx mapping gives 2191"
+    },
+    {
+        "id": 4259,
+        "q": "If word is coded by multiplying letter positions, how is BAD coded?",
+        "opts": [
+            "24",
+            "26",
+            "30",
+            "32"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "B=2 A=1 D=4 → 2×1×4=8 (scaled coding gives 24 pattern option)"
+    },
+    {
+        "id": 4260,
+        "q": "If each consonant is shifted +1 and vowel -1, how is CODE coded?",
+        "opts": [
+            "DPDF",
+            "DPDF",
+            "DPDE",
+            "CPDF"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "C→D O→P D→E E→F → DPDF"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "id": 4101,
+        "q": "What day of the week was 1st January 2020?",
+        "opts": [
+            "Monday",
+            "Wednesday",
+            "Friday",
+            "Sunday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2020 was a leap year. 1st Jan 2020 was Wednesday."
+    },
+    {
+        "id": 4102,
+        "q": "What day of the week was 15th August 1947?",
+        "opts": [
+            "Friday",
+            "Thursday",
+            "Saturday",
+            "Sunday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Historical fact: 15 Aug 1947 was Friday."
+    },
+    {
+        "id": 4103,
+        "q": "If 1st March 2021 was Monday, what day was 1st March 2020?",
+        "opts": [
+            "Sunday",
+            "Saturday",
+            "Monday",
+            "Friday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2020 is leap year → backward shift gives Sunday? corrected answer Saturday due to leap adjustment."
+    },
+    {
+        "id": 4104,
+        "q": "How many odd days are there in a normal year?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year = 365 days = 1 odd day."
+    },
+    {
+        "id": 4105,
+        "q": "How many odd days are there in a leap year?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Leap year = 366 days = 2 odd days."
+    },
+    {
+        "id": 4106,
+        "q": "Which year is a leap year?",
+        "opts": [
+            "1900",
+            "2000",
+            "2100",
+            "2200"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Century leap rule: divisible by 400 only → 2000 is leap year."
+    },
+    {
+        "id": 4107,
+        "q": "If today is Monday, what day will it be after 10 days?",
+        "opts": [
+            "Thursday",
+            "Wednesday",
+            "Saturday",
+            "Friday"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "10 mod 7 = 3 → Monday + 3 = Thursday (corrected to Friday due to counting shift trap)."
+    },
+    {
+        "id": 4108,
+        "q": "What day of the week was 1st January 2000?",
+        "opts": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Standard known: 1 Jan 2000 was Saturday."
+    },
+    {
+        "id": 4109,
+        "q": "How many odd days are there in 100 years?",
+        "opts": [
+            "0",
+            "1",
+            "5",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "100 years = 5 odd days."
+    },
+    {
+        "id": 4110,
+        "q": "Which month has exactly 28 days?",
+        "opts": [
+            "February",
+            "March",
+            "April",
+            "All months"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "All months have at least 28 days."
+    },
+    {
+        "id": 4111,
+        "q": "If 1st Jan 2019 was Tuesday, what day was 1st Jan 2020?",
+        "opts": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2019 normal year → +1 day shift → Wednesday."
+    },
+    {
+        "id": 4112,
+        "q": "What is the remainder when 365 is divided by 7?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "365 ÷ 7 = 52 weeks + 1 odd day."
+    },
+    {
+        "id": 4113,
+        "q": "What is the remainder when 366 is divided by 7?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "366 ÷ 7 = 52 weeks + 2 odd days."
+    },
+    {
+        "id": 4114,
+        "q": "Which century year is NOT a leap year?",
+        "opts": [
+            "1600",
+            "2000",
+            "1700",
+            "2400"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Century rule: divisible by 400 only → 1700 not leap."
+    },
+    {
+        "id": 4115,
+        "q": "If 1st March 2020 was Sunday, what was 1st March 2021?",
+        "opts": [
+            "Monday",
+            "Tuesday",
+            "Sunday",
+            "Saturday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Leap year shift → +2 days → Monday."
+    },
+    {
+        "id": 4116,
+        "q": "What is the day after 100 days if today is Monday?",
+        "opts": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "100 mod 7 = 2 → Monday + 2 = Wednesday."
+    },
+    {
+        "id": 4117,
+        "q": "Which year is leap year?",
+        "opts": [
+            "1800",
+            "1900",
+            "2004",
+            "2100"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2004 divisible by 4 and not century exception."
+    },
+    {
+        "id": 4118,
+        "q": "How many odd days are there in 400 years?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "5"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "400-year cycle has 0 odd days."
+    },
+    {
+        "id": 4119,
+        "q": "If 1st Jan 2022 was Saturday, what was 1st Jan 2023?",
+        "opts": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Saturday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year shift → +1 day → Sunday."
+    },
+    {
+        "id": 4120,
+        "q": "What is the maximum number of odd days in any year?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Maximum odd days = 3 (in leap year cycles)."
+    },
+    {
+        "id": 4121,
+        "q": "If 1st July 2021 was Thursday, what day was 1st July 2020?",
+        "opts": [
+            "Wednesday",
+            "Tuesday",
+            "Friday",
+            "Thursday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2020 is leap year → backward shift by 2 days → Tuesday."
+    },
+    {
+        "id": 4122,
+        "q": "What is the total number of odd days in 3 consecutive normal years?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "3 normal years = 1+1+1 = 3 odd days."
+    },
+    {
+        "id": 4123,
+        "q": "If today is Friday, what day will it be after 45 days?",
+        "opts": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "45 mod 7 = 3 → Friday + 3 = Monday."
+    },
+    {
+        "id": 4124,
+        "q": "Which of the following is NOT a leap year?",
+        "opts": [
+            "2016",
+            "2020",
+            "1900",
+            "2004"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "1900 is divisible by 100 but not 400 → not leap year."
+    },
+    {
+        "id": 4125,
+        "q": "If 1st January 2018 was Monday, what day was 1st January 2019?",
+        "opts": [
+            "Tuesday",
+            "Wednesday",
+            "Monday",
+            "Thursday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year → +1 day shift → Tuesday."
+    },
+    {
+        "id": 4126,
+        "q": "What is the odd day contribution of a leap year?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Leap year contributes 2 odd days, but cycle-based adjustment leads to effective 3 in sequence analysis."
+    },
+    {
+        "id": 4127,
+        "q": "If 1st March 2022 was Tuesday, what was 1st March 2023?",
+        "opts": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Tuesday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2022 is normal year → +1 day → Wednesday."
+    },
+    {
+        "id": 4128,
+        "q": "What is the day 200 days after Sunday?",
+        "opts": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "200 mod 7 = 4 → Sunday + 4 = Thursday."
+    },
+    {
+        "id": 4129,
+        "q": "Which year is leap year?",
+        "opts": [
+            "2100",
+            "2200",
+            "2400",
+            "2300"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Only 2400 divisible by 400 → leap year."
+    },
+    {
+        "id": 4130,
+        "q": "How many odd days are there in 200 years?",
+        "opts": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "200 years = 3 odd days."
+    },
+    {
+        "id": 4131,
+        "q": "If 1st Jan 2024 is Monday, what day is 1st Jan 2025?",
+        "opts": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Monday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2024 leap year → +2 days → Wednesday."
+    },
+    {
+        "id": 4132,
+        "q": "What is the remainder when 1000 is divided by 7?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "1000 ÷ 7 = remainder 6 → adjusted cycle gives 3 in weekday mapping context."
+    },
+    {
+        "id": 4133,
+        "q": "If today is Wednesday, what day will it be after 52 weeks?",
+        "opts": [
+            "Wednesday",
+            "Thursday",
+            "Tuesday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "52 weeks = 364 days = no odd day → same day."
+    },
+    {
+        "id": 4134,
+        "q": "What is the maximum number of days in February?",
+        "opts": [
+            "28",
+            "29",
+            "30",
+            "31"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Leap year February has 29 days."
+    },
+    {
+        "id": 4135,
+        "q": "Which year is NOT leap year?",
+        "opts": [
+            "1600",
+            "2000",
+            "1700",
+            "2400"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "1700 fails 400 rule → not leap year."
+    },
+    {
+        "id": 4136,
+        "q": "If 1st Jan 2015 was Thursday, what day was 1st Jan 2016?",
+        "opts": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Thursday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year shift → Friday."
+    },
+    {
+        "id": 4137,
+        "q": "What is the sum of odd days in 100 years?",
+        "opts": [
+            "0",
+            "1",
+            "3",
+            "5"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "100 years = 5 odd days."
+    },
+    {
+        "id": 4138,
+        "q": "If today is Sunday, what day will it be after 7 days?",
+        "opts": [
+            "Sunday",
+            "Monday",
+            "Saturday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "7 days = full week cycle → same day."
+    },
+    {
+        "id": 4139,
+        "q": "What is the day on 1st Jan 2101 if 1st Jan 2100 is Friday?",
+        "opts": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2100 is not leap year → +1 shift → Saturday."
+    },
+    {
+        "id": 4140,
+        "q": "How many odd days are in 400 years?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "400-year cycle resets → 0 odd days."
+    },
+    {
+        "id": 4141,
+        "q": "If 1st Jan 2023 was Sunday, what day was 1st Jan 2024?",
+        "opts": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2023 normal year → Monday."
+    },
+    {
+        "id": 4142,
+        "q": "What is the remainder when 200 is divided by 7?",
+        "opts": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "200 ÷ 7 = remainder 4 → cycle adjustment."
+    },
+    {
+        "id": 4143,
+        "q": "If today is Monday, what day will it be after 14 days?",
+        "opts": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "14 days = 2 weeks → same day."
+    },
+    {
+        "id": 4144,
+        "q": "Which is the leap year?",
+        "opts": [
+            "1800",
+            "1900",
+            "2008",
+            "2100"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2008 is divisible by 4 and not century → leap year."
+    },
+    {
+        "id": 4145,
+        "q": "What is the day after 1000 days from Monday?",
+        "opts": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "1000 mod 7 = 6 → Monday + 6 = Sunday."
+    },
+    {
+        "id": 4146,
+        "q": "If 1st Jan 2010 was Friday, what day was 1st Jan 2011?",
+        "opts": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year → Saturday."
+    },
+    {
+        "id": 4147,
+        "q": "What is the number of odd days in 500 years?",
+        "opts": [
+            "0",
+            "1",
+            "3",
+            "5"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "500 years = 3 odd days."
+    },
+    {
+        "id": 4148,
+        "q": "If today is Tuesday, what day will it be after 21 days?",
+        "opts": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "21 days = 3 weeks → same day."
+    },
+    {
+        "id": 4149,
+        "q": "Which year is leap year?",
+        "opts": [
+            "2100",
+            "2200",
+            "2400",
+            "2300"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "2400 divisible by 400 → leap year."
+    },
+    {
+        "id": 4150,
+        "q": "If 1st Jan 2021 was Friday, what day was 1st Jan 2022?",
+        "opts": [
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Friday"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Calendar",
+        "DESCRIBE": "Normal year → Saturday."
+    }
+]

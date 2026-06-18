@@ -1,0 +1,282 @@
+[
+  {
+    "id": 4001,
+    "q": "Eight people A, B, C, D, E, F, G and H are sitting in a straight line facing north. A is sitting at one end. B is second to the right of A. C is between B and D. E is immediate left of D. Who is sitting at the other end?",
+    "opts": [
+      "B",
+      "C",
+      "D",
+      "H"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "A at one end, B placed 2nd right of A, chain forms; remaining end position is H."
+  },
+  {
+    "id": 4002,
+    "q": "Six persons A, B, C, D, E and F are sitting in a circle facing centre. B is between A and C. D is opposite B. E is to the immediate right of D. Who is to the immediate left of B?",
+    "opts": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "In circular arrangement facing centre, left of B comes A."
+  },
+  {
+    "id": 4003,
+    "q": "Five friends A, B, C, D and E are sitting in a row facing south. A is at one end. B is to the immediate left of A. C is between B and D. Who sits in the middle?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Arrangement leads to C occupying the central position."
+  },
+  {
+    "id": 4004,
+    "q": "Eight persons are sitting in a straight line facing north. F is third to the right of A. B is immediate left of F. C is at one end. Who is sitting at the other end?",
+    "opts": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Using relative positioning, B occupies one end opposite to C."
+  },
+  {
+    "id": 4005,
+    "q": "Six friends A, B, C, D, E and F are sitting in a circle facing outside. A is second to the left of B. C is opposite A. D is immediate right of C. Who is to the immediate left of B?",
+    "opts": [
+      "A",
+      "D",
+      "E",
+      "F"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Facing outside reverses direction logic; D becomes immediate left of B."
+  },
+  {
+    "id": 4006,
+    "q": "Seven persons are sitting in a straight line facing north. A is at extreme left. B is third to the right of A. C is between B and D. Who is second to the left of D?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arranging, B is second to the left of D."
+  },
+  {
+    "id": 4007,
+    "q": "Eight friends sit in a row facing south. G is at one end. H is third to the left of G. F is immediate right of H. Who is sitting at the other end?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Arrangement fixes opposite end as A."
+  },
+  {
+    "id": 4008,
+    "q": "Six persons sit in a circle facing centre. A is between B and C. D is opposite A. E is to the immediate right of D. Who is to the immediate left of A?",
+    "opts": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "From circular arrangement, B is immediate left of A."
+  },
+  {
+    "id": 4009,
+    "q": "Five persons A, B, C, D, E sit in a row facing north. A is to the immediate right of B. C is in the middle. D is at one end. Who is at the other end?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After placing middle C and end D, E occupies other end."
+  },
+  {
+    "id": 4010,
+    "q": "Eight persons sit in a straight line facing north. E is fourth to the left of A. B is immediate right of E. C is at one end. Who is at the other end?",
+    "opts": [
+      "A",
+      "B",
+      "D",
+      "F"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arrangement, D occupies the opposite end."
+  },
+  {
+    "id": 4011,
+    "q": "Seven persons sit in a row facing south. A is second to the left of B. C is immediate right of A. D is at one end. Who is in the middle?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arranging, B occupies middle position."
+  },
+  {
+    "id": 4012,
+    "q": "Six persons sit in a circle facing centre. A is opposite B. C is between A and D. E is immediate right of B. Who is to the immediate left of C?",
+    "opts": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Circular arrangement places A immediate left of C."
+  },
+  {
+    "id": 4013,
+    "q": "Eight persons sit in a row facing north. A is at extreme right. B is third to the left of A. C is between B and D. Who is at extreme left?",
+    "opts": [
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After full arrangement, H is at extreme left."
+  },
+  {
+    "id": 4014,
+    "q": "Five persons sit in a circle facing centre. A is second to the right of B. C is opposite A. D is immediate left of C. Who is immediate right of B?",
+    "opts": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arranging, A becomes immediate right of B."
+  },
+  {
+    "id": 4015,
+    "q": "Seven persons sit in a straight line facing north. A is in the middle. B is second to the right of A. C is immediate left of A. Who is at one end?",
+    "opts": [
+      "C",
+      "B",
+      "D",
+      "E"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Arrangement places B at one end."
+  },
+  {
+    "id": 4016,
+    "q": "Six persons sit in a row facing south. A is at extreme left. B is immediate right of A. C is between B and D. Who is at extreme right?",
+    "opts": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arranging, F occupies extreme right."
+  },
+  {
+    "id": 4017,
+    "q": "Eight persons sit in a circle facing centre. A is opposite C. B is between A and D. E is immediate right of B. Who is immediate left of C?",
+    "opts": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arrangement, D is immediate left of C."
+  },
+  {
+    "id": 4018,
+    "q": "Five persons sit in a row facing north. A is second to left of B. C is at one end. D is between A and C. Who is in middle?",
+    "opts": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Final arrangement places D in middle."
+  },
+  {
+    "id": 4019,
+    "q": "Seven persons sit in a line facing south. A is at extreme right. B is third to left of A. C is immediate right of B. Who is at extreme left?",
+    "opts": [
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "After arrangement, G is at extreme left."
+  },
+  {
+    "id": 4020,
+    "q": "Six persons sit in a circle facing centre. A is between B and C. D is opposite B. E is immediate left of D. Who is immediate right of A?",
+    "opts": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Seating Arrangement",
+    "DESCRIBE": "Final circular arrangement gives C immediate right of A."
+  }
+]

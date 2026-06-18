@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "q": "Select the set in which the numbers are related in the same way as are the numbers of the following set. (3, 24, 4)",
+        "opts": [
+            "(6, 35, 11)",
+            "(2, 30, 8)",
+            "(12, 84, 4)",
+            "(4, 72, 9)"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "(3, 24, 4) → 3 × 4 × 2 = 24. Similarly, option (d): (4, 72, 9) → 4 × 9 × 2 = 72"
+    },
+    {
+        "id": 2,
+        "q": "Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.",
+        "opts": [
+            "CFIL",
+            "GHIJ",
+            "MOQS",
+            "PSUX"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Odd One Out",
+        "DESCRIBE": "C+3→F+3→I+3→L; M+2→O+2→Q+2→S; P+3→S+2→U+3→X follow a +3/+2 alternating-type gap pattern, while G+1→H+1→I+1→J has a different (+1) common difference, making it the odd one out."
+    },
+    {
+        "id": 3,
+        "q": "Three of the following four numbers are alike in a certain way and one is different. Pick the number that is different from the rest.",
+        "opts": [
+            "126",
+            "189",
+            "254",
+            "217"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Odd One Out",
+        "DESCRIBE": "Except 254, all are multiples of 7 (126=7×18, 189=7×27, 217=7×31). 254 is not a multiple of 7."
+    },
+    {
+        "id": 4,
+        "q": "'Lawyer' is related to 'Justice' in the same way as 'Arbitrator' is related to '____________'.",
+        "opts": [
+            "Judgment",
+            "Injustice",
+            "Settlement",
+            "Communication"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Lawyer → Justice; similarly, Arbitrator → Settlement (an arbitrator's role is to bring about a settlement)."
+    },
+    {
+        "id": 5,
+        "q": "Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster. CEGI : AGEK :: DFHJ : ?",
+        "opts": [
+            "CHFI",
+            "CGIK",
+            "BHFL",
+            "BDJK"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "Pattern follows alternating -2/+2 shifts on letter positions: C(-2)A, E(+2)G, G(-2)E, I(+2)K. Applying the same pattern to DFHJ gives BHFL."
+    },
+    {
+        "id": 6,
+        "q": "Select the number-pair in which the two numbers are related in the same way as are the two numbers of the following number pair. 36 : 84",
+        "opts": [
+            "27 : 63",
+            "21 : 51",
+            "57 : 135",
+            "45 : 95"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "36 = 12×3, 84 = 12×7; both are multiples of 12 in ratio 3:7. Similarly, 27 = 9×3, 63 = 9×7, maintaining the same 3:7 ratio relationship."
+    },
+    {
+        "id": 7,
+        "q": "Select the word-pair in which the two words are related in the same way as are the two words in the following word pair. Book : Thesaurus",
+        "opts": [
+            "Tree : forest",
+            "Reptile : Python",
+            "Furniture : Wood",
+            "Tennis : Ball"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Thesaurus is a sub-group/type of Book. Similarly, Python is a sub-group/type of Reptile."
+    },
+    {
+        "id": 8,
+        "q": "Select the number-pair in which the two numbers are related in the same way as are the two numbers of the following number-pair. 4 : 32",
+        "opts": [
+            "8 : 248",
+            "5 : 62",
+            "10 : 160",
+            "6 : 108"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "4 = 4³ ÷ 2 = 64 ÷ 2 = 32. Similarly, 6 = 6³ ÷ 2 = 216 ÷ 2 = 108."
+    },
+    {
+        "id": 9,
+        "q": "'Action' is related to 'Reaction' in the same way as 'Stimulus' is related to '________'.",
+        "opts": [
+            "Reception",
+            "Vision",
+            "Response",
+            "Feedback"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Action leads to Reaction; similarly, Stimulus leads to Response."
+    },
+    {
+        "id": 10,
+        "q": "Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster. BECD : YVXW :: DGEF : ?",
+        "opts": [
+            "VRTS",
+            "WTVU",
+            "WUTV",
+            "XUWV"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "The relationship is based on pairs of opposite letters (B↔Y, E↔V, C↔X, D↔W in the alphabet's mirrored positions). Applying the same opposite-letter substitution to DGEF gives WTVU."
+    },
+    {
+        "id": 11,
+        "q": "Rs 1,875 is divided among A, B and C in such a way that A's share is half of the combined share of B and C, and B's share is one-fourth of the combined share of A and C. By what amount is C's share more than that of A?",
+        "opts": [
+            "Rs 500",
+            "Rs 225",
+            "Rs 250",
+            "Rs 200"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "From the conditions: B+C=2A and A+C=4B. Solving these two equations gives A:B:C = 5:3:7. Required amount = (1875/15) × 2 = Rs 250."
+    },
+    {
+        "id": 12,
+        "q": "10 years ago, a father's age was 3½ times that of his son, and 10 yrs from now, the father's age will be 2¼ times that of the son. What will be the sum of the ages of the father and the son at present?",
+        "opts": [
+            "100 yrs",
+            "110 yrs",
+            "115 yrs",
+            "120 yrs"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "(F-10)/(S-10) = 7/2 gives 2F-7S=-50. (F+10)/(S+10) = 9/4 gives 4F-9S=50. Solving simultaneously: F=80, S=30, so F+S=110 years."
+    },
+    {
+        "id": 13,
+        "q": "Two mixtures contain milk and juice in the ratio of 2:1 and 4:5. If equal volumes of the two mixtures are mixed together, what would be the ratio of milk to juice in the resulting mixture?",
+        "opts": [
+            "7 : 5",
+            "1 : 1",
+            "5 : 3",
+            "5 : 4"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "Mixture A (2:1) scaled to total 9 gives milk=6, juice=3. Mixture B (4:5) scaled to total 9 gives milk=4, juice=5. Combined: milk=10, juice=8, giving the ratio 5:4."
+    },
+    {
+        "id": 14,
+        "q": "Rs. 820 is divided among 6 men, 8 women and 12 boys in such a way that every woman gets an amount equal to that received by one man and one boy combined and that every man gets one and half times the amount received by a boy. What is the total amount received by 8 women?",
+        "opts": [
+            "Rs. 400",
+            "Rs. 300",
+            "Rs. 240",
+            "Rs. 380"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "Let boy=2x, man=3x, woman=man+boy=5x. Total: 6(3x)+8(5x)+12(2x)=82x=820, so x=10. Amount received by 8 women = 8×5×10 = Rs. 400."
+    },
+    {
+        "id": 15,
+        "q": "The ratio of the present age of Mitali to that of Shabnam is 4:7. If the differences between the present ages of Shabnam and Mitali after 5 years will be 18 years, then what is the sum of the present ages of Mithali and Shabnam?",
+        "opts": [
+            "74 years",
+            "60 years",
+            "66 years",
+            "64 years"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "Let ages be 4x and 7x. (7x+5)-(4x+5)=18 gives 3x=18, so x=6. Sum of ages = 4x+7x = 11x = 66 years."
+    },
+    {
+        "id": 16,
+        "q": "A cycle was sold for Rs. 4,140 with a profit of 15%. At what price could it have been sold to earn a profit of 25%?",
+        "opts": [
+            "Rs. 4,500",
+            "Rs. 4,350",
+            "Rs. 4,200",
+            "Rs. 4,850"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "115% corresponds to Rs. 4140. For 125%: (4140/115) × 125 = Rs. 4500."
+    },
+    {
+        "id": 17,
+        "q": "The average of 9 numbers is 40. If the average of the first five numbers is 38 and that of the last five is 50, then what is the fifth number?",
+        "opts": [
+            "90",
+            "84",
+            "78",
+            "80"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "Total sum of 9 numbers = 40×9 = 360. Sum of first five = 38×5 = 190. Sum of last five = 50×5 = 250. Fifth number = (250+190)-360 = 440-360 = 80."
+    },
+    {
+        "id": 18,
+        "q": "Nisha and Deepak are a married couple and have a daughter named Tanya. Currently, Deepak is 5 years older than Nisha and Nisha is thrice the age of Tanya. If Tanya is 10 years old, what was her father's age at the time of his daughter's birth?",
+        "opts": [
+            "35 years",
+            "25 years",
+            "30 years",
+            "20 years"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "D-N=5, N=3T. T=10 gives N=30, so D=35. At the time of daughter's birth (10 years ago), Deepak's age = 35-10 = 25 years."
+    },
+    {
+        "id": 19,
+        "q": "A father was twelve times as old as his son twenty years ago. Now he is twice as old as his son. What are the present ages of the son and father?",
+        "opts": [
+            "22 and 44 years",
+            "33 and 66 years",
+            "27 and 54 years",
+            "15 and 30 years"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "Let present age of son = x, father = 2x. Equation: 2x-20 = 12(x-20), solving gives x=22. Son = 22 years, Father = 44 years."
+    },
+    {
+        "id": 20,
+        "q": "At a party, the number of girls is half the number of boys. After an hour, five boys leave the party and three girls join the party and the number of boys and girls are now equal. How many people were present at the party an hour before?",
+        "opts": [
+            "16",
+            "8",
+            "24",
+            "22"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Arithmetic Reasoning",
+        "DESCRIBE": "B:G = 2:1, so B=2G. (G+3)=(B-5) gives G+3=2G-5, so G=8 and B=16. Total people before 1 hour = G+B = 8+16 = 24."
+    },
+    {
+        "id": 21,
+        "q": "If DIG is coded as 25 and CUT is coded as 49, then how will KICK be coded as?",
+        "opts": [
+            "43",
+            "39",
+            "41",
+            "34"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "DIG: 4+9+7=20, +5=25. CUT: 3+21+20=44, +5=49. Similarly, KICK: 11+9+3+11=34, +5=39."
+    },
+    {
+        "id": 22,
+        "q": "In the code language, VICTORY is written as CIVSYRO. How will TRAITOR be written as in that language?",
+        "opts": [
+            "RATHORT",
+            "RTAJORT",
+            "ARTJOTR",
+            "ARTHROT"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Each letter shifts by a pattern of -1 position swaps (as shown in the diagram), transforming VICTORY into CIVSYRO. Applying the same pattern to TRAITOR gives ARTHROT."
+    },
+    {
+        "id": 23,
+        "q": "If BACK is coded as 11312 and CAKE is coded as 51113, then how will MADE be coded as?",
+        "opts": [
+            "51413",
+            "54113",
+            "31145",
+            "13145"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "BACK: B=11, A=3, C=1, K=2 giving 11312. CAKE: C=5, A=1, K=1, E=13 giving 51113. Similarly, MADE codes to 54113."
+    },
+    {
+        "id": 24,
+        "q": "In a code language, TEMPLE is written as DKOLDS. How will WORSHIP be written as in that language?",
+        "opts": [
+            "OHGRQNV",
+            "VNQGHOR",
+            "QJITSPX",
+            "OGHQRVN"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "The coding follows a -1 pattern applied in reverse order of the letters."
+    },
+    {
+        "id": 25,
+        "q": "In a code language if FRIDGE is written as GTLHLK, then in the same language how will you write the word KETTLE?",
+        "opts": [
+            "WQLGXK",
+            "LGWXQK",
+            "GLXWQK",
+            "XKWQLG"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "The coding follows a +1, +2, +3, +4, +5, +6 incremental shift pattern applied to each successive letter."
+    },
+    {
+        "id": 26,
+        "q": "In a code language, SUNDAY is written as DNUAYS. How will MOTHER be written as in that language?",
+        "opts": [
+            "HTEOMR",
+            "HTOERM",
+            "HOTERM",
+            "THEORM"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "SUNDAY letters are rearranged by position mapping (1→4, 2→3, 3→2, 4→5, 5→6, 6→1) to give DNUAYS. Applying the same positional mapping to MOTHER gives HTOERM."
+    },
+    {
+        "id": 27,
+        "q": "If CAB is coded as 6 and BED is coded as 40, then how will HAD be coded as?",
+        "opts": [
+            "16",
+            "52",
+            "32",
+            "46"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "CAB: 3×1×2=6. BED: 2×5×4=40. Similarly, HAD: 8×1×4=32 (using the position of letters in the alphabet multiplied together)."
+    },
+    {
+        "id": 28,
+        "q": "In a code language, COMPUTER is written as OCREPMTU. How will DAUGHTER be written in the same language?",
+        "opts": [
+            "READTHGU",
+            "ADTHREGU",
+            "ADREGUTH",
+            "ADERUGTH"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Letters of COMPUTER are rearranged using a specific positional pattern (swapping pairs and reordering) to form OCREPMTU. Applying the same rearrangement pattern to DAUGHTER gives ADREGUTH."
+    },
+    {
+        "id": 29,
+        "q": "If POSTER is coded as 592314 and DARK is coded as 8647, then how will STROKE be coded as?",
+        "opts": [
+            "234917",
+            "234971",
+            "493287",
+            "329417"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "This uses a direct individual letter-to-number code mapping established from POSTER and DARK; applying the same individual codes to STROKE gives 234971."
+    },
+    {
+        "id": 30,
+        "q": "In a code language, TEACHING is written as SDBDGHOH. How will BOOKWORM be written as in that language?",
+        "opts": [
+            "ANPLXNNS",
+            "ANPLXPSL",
+            "CPNJXPSL",
+            "ANPLVNSN"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "TEACHING follows an alternating -1,-1,+1,+1,-1,-1,+1,+1 pattern on letter positions to give SDBDGHOH. Applying the same alternating pattern to BOOKWORM gives ANPLVNSN."
+    },
+    {
+        "id": 31,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 12 – 8 + 12 × 9 ÷ 3 = 9",
+        "opts": [
+            "+ and ÷",
+            "+ and ×",
+            "– and ÷",
+            "+ and –"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging + and ÷: 12 – 8÷12 × 9 + 3 = 12 – (8/12)×9 + 3 = 12 – 6 + 3 = 9, which matches the RHS."
+    },
+    {
+        "id": 32,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 18 + 6 – 6 ÷ 3 × 3 = 6",
+        "opts": [
+            "+ and –",
+            "+ and ÷",
+            "– and ÷",
+            "+ and ×"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging + and ÷: 18÷6 – 6 + 3×3 = 3 – 6 + 9 = 6, which matches the RHS."
+    },
+    {
+        "id": 33,
+        "q": "What will be the value of the following equation if '÷' means 'addition', '+' means 'subtraction', '–' means 'multiplication' and '×' means 'division'? 54 × 6 – 7 ÷ 8 + 2 = ?",
+        "opts": [
+            "63",
+            "57",
+            "69",
+            "61"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Substituting the meanings: 54÷6 ×7 +8 –2 = 9×7+8-2 = 63+8-2 = 69."
+    },
+    {
+        "id": 34,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 15 – 9 ÷ 6 × 10 + 5 = 25",
+        "opts": [
+            "× and –",
+            "+ and –",
+            "+ and ÷",
+            "× and ÷"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging + and –: 15+9÷6×10-5 = 15+15-5 = 25, which matches the RHS."
+    },
+    {
+        "id": 35,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 10 + 5 ÷ 10 × 8 − 10 = 16",
+        "opts": [
+            "+ and ×",
+            "− and +",
+            "÷ and ×",
+            "− and ÷"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging – and +: 10 – 5÷10×8 +10 = 10 – 0.5×8 +10 = 20-4 = 16, which matches the RHS."
+    },
+    {
+        "id": 36,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 12 − 6 ÷ 12 × 6 + 6 = 9",
+        "opts": [
+            "÷ and ×",
+            "+ and ÷",
+            "– and +",
+            "× and +"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging – and +: 12+6÷12×6-6 = 12+3-6 = 9, which matches the RHS."
+    },
+    {
+        "id": 37,
+        "q": "What will be the value of following equation if '÷' means 'addition', '+' means 'subtraction', '-' means 'multiplication' and 'x' means 'division'? 72 × 9 - 3 ÷ 8 + 2 = ?",
+        "opts": [
+            "25",
+            "30",
+            "40",
+            "35"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Substituting the meanings: 72÷9 × 3 + 8 - 2 = 24+8-2 = 30."
+    },
+    {
+        "id": 38,
+        "q": "Which of the two signs should be interchanged in the following equation to make the given value correct? 15 + 5 -10 × 6 ÷ 12 = 6",
+        "opts": [
+            "+ and ÷",
+            "− and ÷",
+            "+ and ×",
+            "+ and −"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging – and ÷: 15+5÷10×6-12 = 15+3-12 = 6, which matches the RHS."
+    },
+    {
+        "id": 39,
+        "q": "Which two signs should be interchanged in the following equation to make it correct? 9 – 3 + 12 × 8 ÷ 4 = 11",
+        "opts": [
+            "+ and -",
+            "+ and ×",
+            "– and ÷",
+            "+ and ÷"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging + and ÷: 9 – 3÷12×8 + 4 = 9 – 2 + 4 = 11, which matches the RHS."
+    },
+    {
+        "id": 40,
+        "q": "If + denotes − , − denotes ∗, ∗ denotes /, / denotes +, then what will be the numeric value of 60 ∗ 10/40 + 6 − 5 =",
+        "opts": [
+            "3",
+            "144",
+            "16",
+            "200"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Substituting meanings: 60/10 + 40 − 6∗5 = 6 + 40 − 30 = 16."
+    },
+    {
+        "id": 41,
+        "q": "Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series. b_bab_bc_abbb_ba_b",
+        "opts": [
+            "cbbac",
+            "cbabc",
+            "cbbcb",
+            "bcbab"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "Filling the blanks sequentially with 'cbbcb' creates the repeating pattern: bcbab/bcbab/bcbab (i.e., the unit 'bcbab' repeats three times), completing the series correctly."
+    },
+    {
+        "id": 42,
+        "q": "Which number will replace the question mark (?) in the following series? 3, 7, 16, 35, ?, 153",
+        "opts": [
+            "84",
+            "74",
+            "78",
+            "63"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "Pattern: 3×2+1=7; 7×2+2=16; 16×2+3=35; 35×2+4=74; 74×2+5=153. So the missing number is 74."
+    },
+    {
+        "id": 43,
+        "q": "Which number will replace the question mark (?) in the following series? 2, 5, 11, 23, 44, ?",
+        "opts": [
+            "77",
+            "51",
+            "63",
+            "66"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "The differences between terms follow a layered pattern: first differences are 3,6,12,21,33; second differences are 3,6,9,12; third differences are constant at 3. Extending this pattern, the next term is 77."
+    },
+    {
+        "id": 44,
+        "q": "Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series. ac__d__b__cbdd__a__bddb",
+        "opts": [
+            "bdabc",
+            "bdbca",
+            "bdcab",
+            "cbdbc"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "Filling the blanks with 'bdabc' creates the repeating unit 'acbddb' repeated three times: acbddb/acbddb/acbddb, completing the series correctly."
+    },
+    {
+        "id": 45,
+        "q": "Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series. cb_db_cba_bc_bad_c",
+        "opts": [
+            "acdcb",
+            "cabdc",
+            "acbcd",
+            "dcbcb"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "Filling the blanks with 'acdcb' creates the repeating unit 'cbadbc' repeated three times: cbadbc/cbadbc/cbadbc, completing the series correctly."
+    },
+    {
+        "id": 46,
+        "q": "Which number will replace the question mark (?) in the following series? 98, 95, 86, 82, 66, ?, 36",
+        "opts": [
+            "58",
+            "60",
+            "61",
+            "63"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "The pattern subtracts increasing perfect squares alternately with +1 adjustments: 98-3=95, 95-9(3²)=86, 86+1-5=82, 82-16(4²)=66, 66-5=61, 61-25(5²)=36. The missing number is 61."
+    },
+    {
+        "id": 47,
+        "q": "Which number will replace the question mark (?) in the following series? 2, 3, 6, 10, 17, 28, ?",
+        "opts": [
+            "45",
+            "39",
+            "43",
+            "46"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "Pattern: 3+2+1=6; 6+3+1=10; 10+6+1=17; 17+10+1=28; 28+17+1=46. So the missing number is 46."
+    },
+    {
+        "id": 48,
+        "q": "Select the term that will come in the place of '?' 7, 11, 19, 31, ?, 67",
+        "opts": [
+            "45",
+            "51",
+            "43",
+            "47"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "The differences between consecutive terms are 4, 8, 12, 16, 20, each increasing by a constant 4. So 31+16=47, and 47+20=67, confirming the missing number is 47."
+    },
+    {
+        "id": 49,
+        "q": "Find the next number in the given series. 3, 13, 31, ?, 91",
+        "opts": [
+            "48",
+            "13",
+            "69",
+            "57"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "The differences between terms are 10, 18, 26, 34, each increasing by a constant 8. So 31+26=57, and 57+34=91, confirming the missing number is 57."
+    },
+    {
+        "id": 50,
+        "q": "Select the term that will come next in the following series. 3, 5, 10, 20, 37, ?",
+        "opts": [
+            "58",
+            "61",
+            "69",
+            "63"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "The first differences are 2, 5, 10, 17, 26; the second differences are 3, 5, 7, 9. Extending the pattern, the next second difference is 11, giving the next term as 63."
+    }
+]

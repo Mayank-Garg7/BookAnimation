@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3801,
+    "q": "A standard die is thrown once. What is the probability of getting a prime number?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Prime numbers on die = 2,3,5 → 3 outcomes out of 6 → 1/2."
+  },
+  {
+    "id": 3802,
+    "q": "A die is rolled. What is the probability of getting a number greater than 4?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Numbers greater than 4 = 5,6 → 2/6 = 1/3."
+  },
+  {
+    "id": 3803,
+    "q": "Two dice are thrown. What is the probability of getting a sum of 7?",
+    "opts": [
+      "1/6",
+      "1/9",
+      "1/12",
+      "1/18"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Favorable outcomes: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6/36 = 1/6."
+  },
+  {
+    "id": 3804,
+    "q": "A die is rolled. What is the probability of getting an even number?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Even numbers = 2,4,6 → 3/6 = 1/2."
+  },
+  {
+    "id": 3805,
+    "q": "A die is thrown. What is the probability of getting a number less than 3?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Numbers less than 3 = 1,2 → 2/6 = 1/3."
+  },
+  {
+    "id": 3806,
+    "q": "Two dice are thrown. What is the probability of getting a doublet?",
+    "opts": [
+      "1/6",
+      "1/9",
+      "1/12",
+      "1/36"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Doublets: (1,1) to (6,6) = 6 outcomes out of 36 = 1/6."
+  },
+  {
+    "id": 3807,
+    "q": "A die is rolled. What is the probability of getting a number divisible by 3?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Divisible by 3 = 3,6 → 2/6 = 1/3."
+  },
+  {
+    "id": 3808,
+    "q": "A die is thrown twice. What is the probability of getting a sum of 12?",
+    "opts": [
+      "1/6",
+      "1/12",
+      "1/18",
+      "1/36"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Only (6,6) gives sum 12 → 1/36."
+  },
+  {
+    "id": 3809,
+    "q": "A die is rolled. What is the probability of getting a number greater than or equal to 3?",
+    "opts": [
+      "1/6",
+      "1/2",
+      "2/3",
+      "5/6"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Numbers 3–6 = 4 outcomes → 4/6 = 2/3."
+  },
+  {
+    "id": 3810,
+    "q": "Two dice are thrown. What is the probability of getting a sum of 9?",
+    "opts": [
+      "1/9",
+      "1/12",
+      "1/18",
+      "1/36"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Pairs: (3,6),(4,5),(5,4),(6,3) = 4/36 = 1/9."
+  },
+  {
+    "id": 3811,
+    "q": "A die is rolled. What is the probability of getting an odd number?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Odd numbers = 1,3,5 → 3/6 = 1/2."
+  },
+  {
+    "id": 3812,
+    "q": "A die is thrown. What is the probability of getting a number less than or equal to 2?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Numbers 1,2 → 2/6 = 1/3."
+  },
+  {
+    "id": 3813,
+    "q": "Two dice are thrown. What is the probability of getting a sum of 8?",
+    "opts": [
+      "1/6",
+      "5/36",
+      "7/36",
+      "1/9"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Pairs: (2,6),(3,5),(4,4),(5,3),(6,2) = 5/36."
+  },
+  {
+    "id": 3814,
+    "q": "A die is rolled. What is the probability of getting a number which is a perfect square?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Perfect squares on die = 1,4 → 2/6 = 1/3."
+  },
+  {
+    "id": 3815,
+    "q": "Two dice are thrown. What is the probability of getting a sum less than 5?",
+    "opts": [
+      "1/6",
+      "1/9",
+      "1/12",
+      "1/18"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Favorable: (1,1),(1,2),(2,1),(1,3),(3,1),(2,2) = 6/36 = 1/6."
+  },
+  {
+    "id": 3816,
+    "q": "A die is rolled. What is the probability of getting a number greater than 6?",
+    "opts": [
+      "0",
+      "1/6",
+      "1/3",
+      "1"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "No outcome greater than 6 → probability 0."
+  },
+  {
+    "id": 3817,
+    "q": "Two dice are thrown. What is the probability of getting a sum of 4?",
+    "opts": [
+      "1/12",
+      "1/9",
+      "1/18",
+      "1/36"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Pairs: (1,3),(2,2),(3,1) = 3/36 = 1/12."
+  },
+  {
+    "id": 3818,
+    "q": "A die is rolled. What is the probability of getting a number which is not a prime?",
+    "opts": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Non-primes = 1,4,6 → 3/6 = 1/2."
+  },
+  {
+    "id": 3819,
+    "q": "Two dice are thrown. What is the probability of getting a sum of 2 or 3?",
+    "opts": [
+      "1/12",
+      "1/9",
+      "1/18",
+      "1/36"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "Sum 2: (1,1), Sum 3: (1,2),(2,1) → 3/36 = 1/12."
+  },
+  {
+    "id": 3820,
+    "q": "A die is rolled. What is the probability of getting a number less than 1?",
+    "opts": [
+      "0",
+      "1/6",
+      "1/3",
+      "1"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Dice & Cube",
+    "DESCRIBE": "No such outcome exists → probability 0."
+  }
+]

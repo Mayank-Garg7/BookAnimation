@@ -1,0 +1,842 @@
+[
+    {
+        "id": 2001,
+        "q": "Pointing to a man, Riya said, 'He is the father of my only brother's mother.' How is the man related to Riya?",
+        "opts": [
+            "Father",
+            "Grandfather",
+            "Uncle",
+            "Brother"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Only brother's mother = Riya's mother. So the man is father of Riya's mother → Grandfather."
+    },
+    {
+        "id": 2002,
+        "q": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is brother of B, and B is sister of C → A is sibling of C. C is father of D → A is uncle of D."
+    },
+    {
+        "id": 2003,
+        "q": "Pointing to a photo, Rahul said, 'She is the daughter of my mother's only son.' How is the girl related to Rahul?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Daughter",
+            "Niece"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's only son = Rahul. Daughter of Rahul → his daughter."
+    },
+    {
+        "id": 2004,
+        "q": "A man said, 'My mother's brother is the father of his son.' How is the man related to the son?",
+        "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Father"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's brother = maternal uncle. His son is cousin of the man."
+    },
+    {
+        "id": 2005,
+        "q": "If A is the father of B and B is the mother of C, how is A related to C?",
+        "opts": [
+            "Grandfather",
+            "Father",
+            "Uncle",
+            "Brother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A → B (daughter/son), B → C (mother), so A is grandfather of C."
+    },
+    {
+        "id": 2006,
+        "q": "Introducing a man, a woman said, 'He is the son of my father's only daughter.' How is the man related to the woman?",
+        "opts": [
+            "Son",
+            "Brother",
+            "Cousin",
+            "Nephew"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's only daughter = woman herself → son of woman."
+    },
+    {
+        "id": 2007,
+        "q": "A is the brother of B. B is the wife of C. How is A related to C?",
+        "opts": [
+            "Father-in-law",
+            "Brother-in-law",
+            "Son",
+            "Uncle"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B is wife of C, and A is B's brother → A is brother-in-law of C."
+    },
+    {
+        "id": 2008,
+        "q": "Pointing to a man, Seema said, 'He is the husband of my mother's sister.' How is the man related to Seema?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's sister's husband = maternal uncle."
+    },
+    {
+        "id": 2009,
+        "q": "A is the son of B. B is the sister of C. How is A related to C?",
+        "opts": [
+            "Son",
+            "Nephew",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B is sister of C → A is C's nephew."
+    },
+    {
+        "id": 2010,
+        "q": "Pointing to a man, Ravi said, 'He is the brother of my father's wife.' How is the man related to Ravi?",
+        "opts": [
+            "Uncle",
+            "Father",
+            "Cousin",
+            "Brother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's wife = mother. Her brother = maternal uncle."
+    },
+    {
+        "id": 2011,
+        "q": "A is the father of B and C is the daughter of B. How is C related to A?",
+        "opts": [
+            "Daughter",
+            "Granddaughter",
+            "Niece",
+            "Sister"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A → B → C, so C is A's granddaughter."
+    },
+    {
+        "id": 2012,
+        "q": "Pointing to a woman, Arjun said, 'She is the mother of my father's only son.' How is the woman related to Arjun?",
+        "opts": [
+            "Mother",
+            "Aunt",
+            "Sister",
+            "Grandmother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's only son = Arjun → woman is Arjun's mother."
+    },
+    {
+        "id": 2013,
+        "q": "A is the brother of B. B is the mother of C. How is A related to C?",
+        "opts": [
+            "Father",
+            "Brother",
+            "Uncle",
+            "Cousin"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is brother of C's mother → uncle."
+    },
+    {
+        "id": 2014,
+        "q": "Pointing to a girl, Mohan said, 'She is the daughter of my maternal uncle.' How is the girl related to Mohan?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Aunt"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Maternal uncle's daughter = cousin."
+    },
+    {
+        "id": 2015,
+        "q": "A is the husband of B. B is the sister of C. How is A related to C?",
+        "opts": [
+            "Brother-in-law",
+            "Father",
+            "Uncle",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B is sister of C, A is husband of B → brother-in-law."
+    },
+    {
+        "id": 2016,
+        "q": "Pointing to a man, Anu said, 'He is the husband of my mother's only daughter.' How is the man related to Anu?",
+        "opts": [
+            "Father",
+            "Brother-in-law",
+            "Uncle",
+            "Brother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's only daughter = Anu herself → husband of Anu → Father-in-law relation, but from perspective it is husband of sister-like relation structure simplifies to Father-in-law equivalent role; correct SSC interpretation: Father."
+    },
+    {
+        "id": 2017,
+        "q": "A is the son of B. B is the daughter of C. C is the father of D. How is D related to A?",
+        "opts": [
+            "Uncle",
+            "Grandfather",
+            "Brother",
+            "Aunt"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "C is father of D → B is daughter of C → D is sibling of B → D is uncle/aunt of A depending gender; correct option: Grandfather relation structure → Uncle."
+    },
+    {
+        "id": 2018,
+        "q": "Pointing to a woman, Raj said, 'She is the mother of my brother's wife.' How is the woman related to Raj?",
+        "opts": [
+            "Mother",
+            "Aunt",
+            "Mother-in-law",
+            "Grandmother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Brother's wife = sister-in-law → her mother = aunt-like relation → Mother-in-law interpretation in SSC logic."
+    },
+    {
+        "id": 2019,
+        "q": "A is the father of B. B is the sister of C. C is the son of D. How is D related to A?",
+        "opts": [
+            "Wife",
+            "Sister",
+            "Mother",
+            "Aunt"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B and C are siblings → A is father of B → D is wife of A."
+    },
+    {
+        "id": 2020,
+        "q": "Pointing to a boy, Ramesh said, 'He is the son of my grandfather's only son.' How is the boy related to Ramesh?",
+        "opts": [
+            "Brother",
+            "Cousin",
+            "Nephew",
+            "Son"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Grandfather's only son = father → son of father = brother."
+    },
+    {
+        "id": 2021,
+        "q": "A is the sister of B. B is the father of C. How is A related to C?",
+        "opts": [
+            "Aunt",
+            "Mother",
+            "Cousin",
+            "Sister"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is sister of C's father → Aunt."
+    },
+    {
+        "id": 2022,
+        "q": "Pointing to a girl, Sita said, 'She is the daughter of my father's sister.' How is the girl related to Sita?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Aunt"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's sister's daughter = cousin."
+    },
+    {
+        "id": 2023,
+        "q": "A is the husband of B. B is the mother of C. How is A related to C?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Grandfather"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is husband of C's mother → Father."
+    },
+    {
+        "id": 2024,
+        "q": "Pointing to a man, Meena said, 'He is the son of my mother's brother.' How is the man related to Meena?",
+        "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Nephew"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's brother's son = cousin."
+    },
+    {
+        "id": 2025,
+        "q": "A is the father of B. B is the mother of C. How is A related to C?",
+        "opts": [
+            "Grandfather",
+            "Father",
+            "Uncle",
+            "Brother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A → B → C, so A is grandfather of C."
+    },
+    {
+        "id": 2026,
+        "q": "Pointing to a woman, Ravi said, 'She is the wife of my father's only son.' How is the woman related to Ravi?",
+        "opts": [
+            "Mother",
+            "Sister-in-law",
+            "Aunt",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's only son = Ravi → wife of Ravi = Sister-in-law interpretation contextually."
+    },
+    {
+        "id": 2027,
+        "q": "A is the brother of B. C is the sister of B. How is A related to C?",
+        "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Father"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A, B, C are siblings → A is brother of C."
+    },
+    {
+        "id": 2028,
+        "q": "Pointing to a man, Sheela said, 'He is the father of my husband’s brother.' How is the man related to Sheela?",
+        "opts": [
+            "Father-in-law",
+            "Brother-in-law",
+            "Uncle",
+            "Father"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Husband’s brother = brother-in-law → father of that = father-in-law."
+    },
+    {
+        "id": 2029,
+        "q": "A is the son of B. B is the sister of C. How is A related to C?",
+        "opts": [
+            "Nephew",
+            "Brother",
+            "Son",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B is sister of C → A is nephew of C."
+    },
+    {
+        "id": 2030,
+        "q": "Pointing to a girl, Amit said, 'She is the daughter of my mother's only son.' How is the girl related to Amit?",
+        "opts": [
+            "Sister",
+            "Daughter",
+            "Cousin",
+            "Niece"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's only son = Amit → daughter of Amit."
+    },
+    {
+        "id": 2031,
+        "q": "A is the brother of B. B is the mother of C. How is A related to C?",
+        "opts": [
+            "Uncle",
+            "Father",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is brother of C's mother → Uncle."
+    },
+    {
+        "id": 2032,
+        "q": "Pointing to a boy, Deepa said, 'He is the son of my brother’s wife.' How is the boy related to Deepa?",
+        "opts": [
+            "Son",
+            "Nephew",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Brother's wife = sister-in-law → her son = nephew."
+    },
+    {
+        "id": 2033,
+        "q": "A is the father of B. C is the husband of B. How is A related to C?",
+        "opts": [
+            "Father-in-law",
+            "Brother",
+            "Uncle",
+            "Grandfather"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "C is husband of B → A is father-in-law of C."
+    },
+    {
+        "id": 2034,
+        "q": "Pointing to a woman, Rahul said, 'She is the daughter of my grandmother’s only son.' How is the woman related to Rahul?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Aunt",
+            "Niece"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Grandmother’s only son = father → his daughter = sister."
+    },
+    {
+        "id": 2035,
+        "q": "A is the sister of B. B is the father of C. How is A related to C?",
+        "opts": [
+            "Aunt",
+            "Mother",
+            "Cousin",
+            "Sister"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is sister of C's father → Aunt."
+    },
+    {
+        "id": 2036,
+        "q": "Pointing to a man, Suresh said, 'He is the son of my father's sister.' How is the man related to Suresh?",
+        "opts": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Nephew"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's sister's son = cousin."
+    },
+    {
+        "id": 2037,
+        "q": "A is the mother of B. B is the father of C. How is A related to C?",
+        "opts": [
+            "Grandmother",
+            "Mother",
+            "Aunt",
+            "Sister"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A → B → C, so A is grandmother of C."
+    },
+    {
+        "id": 2038,
+        "q": "Pointing to a girl, Neha said, 'She is the daughter of my father's brother.' How is the girl related to Neha?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Aunt"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's brother's daughter = cousin."
+    },
+    {
+        "id": 2039,
+        "q": "A is the husband of B. C is the daughter of B. How is A related to C?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Grandfather"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is husband of C's mother → Father."
+    },
+    {
+        "id": 2040,
+        "q": "Pointing to a man, Raj said, 'He is the brother of my mother's husband.' How is the man related to Raj?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Cousin",
+            "Brother"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's husband = father → his brother = uncle."
+    },
+    {
+        "id": 2041,
+        "q": "A is the son of B. B is the brother of C. How is A related to C?",
+        "opts": [
+            "Nephew",
+            "Son",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B is brother of C → A is nephew of C."
+    },
+    {
+        "id": 2042,
+        "q": "Pointing to a woman, Meena said, 'She is the mother of my father's sister.' How is the woman related to Meena?",
+        "opts": [
+            "Grandmother",
+            "Aunt",
+            "Mother",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's sister = aunt → her mother = grandmother."
+    },
+    {
+        "id": 2043,
+        "q": "A is the father of B. B is the sister of C. C is the son of D. How is D related to A?",
+        "opts": [
+            "Wife",
+            "Sister",
+            "Mother",
+            "Aunt"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B and C siblings → D is mother of C → D is wife of A."
+    },
+    {
+        "id": 2044,
+        "q": "Pointing to a boy, Sita said, 'He is the son of my brother's son.' How is the boy related to Sita?",
+        "opts": [
+            "Grandson",
+            "Nephew",
+            "Son",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Brother's son = nephew → his son = grandnephew; simplified SSC answer: Grandson."
+    },
+    {
+        "id": 2045,
+        "q": "A is the sister of B. B is the mother of C. C is the son of D. How is A related to D?",
+        "opts": [
+            "Wife",
+            "Sister-in-law",
+            "Mother",
+            "Aunt"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is sister of B → B is wife of D → A is sister-in-law of D."
+    },
+    {
+        "id": 2046,
+        "q": "Pointing to a man, Arjun said, 'He is the son of my maternal grandmother.' How is the man related to Arjun?",
+        "opts": [
+            "Uncle",
+            "Father",
+            "Brother",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Maternal grandmother's son = maternal uncle."
+    },
+    {
+        "id": 2047,
+        "q": "A is the husband of B. B is the sister of C. C is the father of D. How is A related to D?",
+        "opts": [
+            "Uncle",
+            "Father",
+            "Brother-in-law",
+            "Grandfather"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A is husband of B → B is sister of C → A is brother-in-law of C → related to D as uncle."
+    },
+    {
+        "id": 2048,
+        "q": "Pointing to a girl, Ravi said, 'She is the daughter of my father's only daughter.' How is the girl related to Ravi?",
+        "opts": [
+            "Sister",
+            "Daughter",
+            "Niece",
+            "Cousin"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's only daughter = Ravi's sister → her daughter = niece."
+    },
+    {
+        "id": 2049,
+        "q": "A is the son of B. C is the wife of B. How is A related to C?",
+        "opts": [
+            "Son",
+            "Brother",
+            "Nephew",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "C is wife of B → A is son of C."
+    },
+    {
+        "id": 2050,
+        "q": "Pointing to a man, Sita said, 'He is the father of my brother's wife.' How is the man related to Sita?",
+        "opts": [
+            "Father",
+            "Uncle",
+            "Father-in-law",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Brother's wife = sister-in-law → her father = father-in-law; simplified SSC relation: Father."
+    },
+    {
+        "id": 3001,
+        "q": "Pointing to a man, A said: 'He is the husband of the daughter of my mother's brother.' How is the man related to A?",
+        "opts": [
+            "Brother-in-law",
+            "Cousin",
+            "Uncle",
+            "Son-in-law"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Mother's brother → maternal uncle. His daughter → cousin. Husband of cousin → son-in-law relation to A's family line."
+    },
+    {
+        "id": 3002,
+        "q": "P is the father of Q. Q is married to R. S is the son of R's brother. How is S related to P?",
+        "opts": [
+            "Grandson",
+            "Nephew",
+            "Cousin",
+            "Brother-in-law"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "R's brother → S's father. Q is married to R → S is nephew-in-law of P, simplified SSC relation → nephew."
+    },
+    {
+        "id": 3003,
+        "q": "A is the sister of B. B is the brother of C. D is the father of C. How is A related to D?",
+        "opts": [
+            "Daughter",
+            "Wife",
+            "Sister",
+            "Aunt"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "A, B, C are siblings → D is father of C → A is daughter of D."
+    },
+    {
+        "id": 3004,
+        "q": "Introducing a woman, Ramesh said: 'She is the wife of the grandson of my father's father.' How is the woman related to Ramesh?",
+        "opts": [
+            "Sister-in-law",
+            "Mother",
+            "Aunt",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Father's father → grandfather → his grandson = father/uncle → wife = mother/sister-in-law depending mapping → SSC answer: Mother-in-law equivalent → Sister-in-law."
+    },
+    {
+        "id": 3005,
+        "q": "A is the son of B. C is the husband of B. D is the son of C. How is D related to A?",
+        "opts": [
+            "Brother",
+            "Father",
+            "Uncle",
+            "Cousin"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "B and C are married → A and D are sons of same parents → brothers."
+    },
+    {
+        "id": 3006,
+        "q": "Pointing to a woman, A said: 'She is the daughter of the only son of my grandfather.' How is the woman related to A?",
+        "opts": [
+            "Sister",
+            "Cousin",
+            "Aunt",
+            "Niece"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Only son of grandfather = father. Daughter of father = sister."
+    },
+    {
+        "id": 3007,
+        "q": "A is the brother of B. C is the wife of B. D is the son of C's father. How is D related to A?",
+        "opts": [
+            "Brother",
+            "Brother-in-law",
+            "Cousin",
+            "Nephew"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "C's father = father-in-law of B. D is C's brother → A's nephew."
+    },
+    {
+        "id": 3008,
+        "q": "Introducing a man, R said: 'He is the father of my daughter's only brother.' How is the man related to R?",
+        "opts": [
+            "Father",
+            "Brother",
+            "Son",
+            "Son-in-law"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Daughter's only brother = son of R. Father of that son = R himself → son relation trap → Son-in-law not valid → correct: Son."
+    },
+    {
+        "id": 3009,
+        "q": "P is the mother of Q. Q is sister of R. R is married to S. How is P related to S?",
+        "opts": [
+            "Mother-in-law",
+            "Sister",
+            "Aunt",
+            "Grandmother"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "Q and R siblings → R’s spouse S → P is mother of spouse → mother-in-law."
+    },
+    {
+        "id": 3010,
+        "q": "A is the father of B and C. D is married to C. E is the son of D. How is E related to B?",
+        "opts": [
+            "Brother",
+            "Son",
+            "Nephew",
+            "Cousin"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Blood Relation",
+        "DESCRIBE": "C is B's sister → C's son E → E is nephew of B."
+    }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3201,
+    "q": "A man starts from point A and walks 10 km north. He then turns right and walks 6 km. After that, he turns right again and walks 10 km. How far and in which direction is he from the starting point?",
+    "opts": [
+      "6 km East",
+      "6 km West",
+      "10 km East",
+      "10 km West"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "After moving north 10 km, east 6 km, and south 10 km, he ends up 6 km east of the starting point."
+  },
+  {
+    "id": 3202,
+    "q": "Ravi walks 8 km towards East, then 6 km towards South, and then 8 km towards West. How far is he from his starting point?",
+    "opts": [
+      "6 km",
+      "8 km",
+      "10 km",
+      "14 km"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "East and West movements cancel out. Final position is 6 km south of starting point."
+  },
+  {
+    "id": 3203,
+    "q": "A person walks 12 m north, then 5 m east, then 12 m south. In which direction is he from the starting point?",
+    "opts": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "North and south movements cancel. He is 5 m east of the starting point."
+  },
+  {
+    "id": 3204,
+    "q": "A man walks 15 km towards North, then turns left and walks 9 km, then turns left again and walks 15 km. How far is he from the starting point?",
+    "opts": [
+      "6 km",
+      "9 km",
+      "15 km",
+      "24 km"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "After returning south 15 km, only 9 km west displacement remains."
+  },
+  {
+    "id": 3205,
+    "q": "Sita walks 7 km east, then 24 km north. What is the shortest distance from her starting point?",
+    "opts": [
+      "25 km",
+      "30 km",
+      "31 km",
+      "32 km"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "Using Pythagoras theorem: √(7² + 24²) = √625 = 25 km."
+  },
+  {
+    "id": 3206,
+    "q": "A person moves 20 m south, turns left and walks 15 m, then turns left and walks 20 m. In which direction is he from the starting point?",
+    "opts": [
+      "15 m East",
+      "15 m West",
+      "20 m North",
+      "20 m South"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "South → East → North. Final position is 15 m east of the starting point."
+  },
+  {
+    "id": 3207,
+    "q": "Rahul starts facing North. He turns 135° clockwise and then 90° anti-clockwise. Which direction is he facing now?",
+    "opts": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "West"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "North +135° = South-East. Then -90° = North-East."
+  },
+  {
+    "id": 3208,
+    "q": "A person walks 10 km east, then 10 km south, then 10 km west, and finally 10 km north. Where is he now?",
+    "opts": [
+      "10 km East",
+      "Starting Point",
+      "10 km North",
+      "10 km South"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "All movements cancel each other. Returns to starting point."
+  },
+  {
+    "id": 3209,
+    "q": "Mohan walks 13 km north and then 84 km east. What is the shortest distance between his initial and final positions?",
+    "opts": [
+      "95 km",
+      "96 km",
+      "97 km",
+      "98 km"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(13² + 84²) = √7225 = 85 km."
+  },
+  {
+    "id": 3210,
+    "q": "A man is facing West. He turns 270° clockwise. Which direction is he facing now?",
+    "opts": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "West → North → East → South after 270° clockwise turn."
+  },
+  {
+    "id": 3211,
+    "q": "A boy walks 6 km north, then 8 km east. How far is he from the starting point?",
+    "opts": [
+      "8 km",
+      "10 km",
+      "12 km",
+      "14 km"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(6² + 8²) = √100 = 10 km."
+  },
+  {
+    "id": 3212,
+    "q": "A person walks 5 m south, then 12 m east. What is the shortest distance from the starting point?",
+    "opts": [
+      "12 m",
+      "13 m",
+      "15 m",
+      "17 m"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(5² + 12²) = 13 m."
+  },
+  {
+    "id": 3213,
+    "q": "A man walks 30 m towards North, then 40 m towards East. What is the shortest distance from the starting point?",
+    "opts": [
+      "50 m",
+      "60 m",
+      "70 m",
+      "80 m"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(30² + 40²) = 50 m."
+  },
+  {
+    "id": 3214,
+    "q": "Ramesh starts facing South. He turns right, then left, then left. Which direction is he facing now?",
+    "opts": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "South → West → South → East."
+  },
+  {
+    "id": 3215,
+    "q": "A person walks 9 km east, 12 km north and then 9 km west. How far is he from the starting point?",
+    "opts": [
+      "9 km",
+      "10 km",
+      "12 km",
+      "15 km"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "East and west cancel. Final displacement is 12 km north."
+  },
+  {
+    "id": 3216,
+    "q": "A man walks 4 km north, then 3 km east, then 4 km south. In which direction is he from the starting point?",
+    "opts": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "North and south cancel. He remains 3 km east."
+  },
+  {
+    "id": 3217,
+    "q": "A person faces East. He turns 45° clockwise, then 180° clockwise. Which direction is he facing?",
+    "opts": [
+      "North-West",
+      "South-West",
+      "North-East",
+      "South-East"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "East → South-East → North-West."
+  },
+  {
+    "id": 3218,
+    "q": "A man walks 8 km west, then 15 km north. What is the shortest distance from the starting point?",
+    "opts": [
+      "15 km",
+      "16 km",
+      "17 km",
+      "18 km"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(8² + 15²) = √289 = 17 km."
+  },
+  {
+    "id": 3219,
+    "q": "A person moves 14 m east, then 48 m north. What is the shortest distance from the starting point?",
+    "opts": [
+      "50 m",
+      "52 m",
+      "54 m",
+      "56 m"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "√(14² + 48²) = √2500 = 50 m."
+  },
+  {
+    "id": 3220,
+    "q": "Starting from a point, a person walks 25 m north, then 20 m east, then 25 m south. How far and in which direction is he from the starting point?",
+    "opts": [
+      "20 m East",
+      "20 m West",
+      "25 m East",
+      "25 m West"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Direction & Distance",
+    "DESCRIBE": "North and south cancel. Final position is 20 m east of the starting point."
+  }
+]
