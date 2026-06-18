@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1001,
+        "q": "Select the number-pair in which the numbers are related in the same way as in the given pair. 7 : 98",
+        "opts": [
+            "8 : 128",
+            "9 : 162",
+            "6 : 72",
+            "5 : 45"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "7² × 2 = 98. Similarly, 9² × 2 = 162."
+    },
+    {
+        "id": 1002,
+        "q": "Select the option that is related to the third term in the same way as the second term is related to the first term. CAT : ACT :: DOG : ?",
+        "opts": [
+            "ODG",
+            "GOD",
+            "DGO",
+            "OGD"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "The letters are rearranged in reverse order. CAT → ACT, therefore DOG → GOD."
+    },
+    {
+        "id": 1003,
+        "q": "Select the number-pair in which the numbers are related in the same way as in the given pair. 12 : 144",
+        "opts": [
+            "15 : 225",
+            "14 : 196",
+            "13 : 169",
+            "All of these"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Analogy",
+        "DESCRIBE": "Second number is the square of the first number."
+    },
+    {
+        "id": 1004,
+        "q": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out.",
+        "opts": [
+            "64",
+            "125",
+            "216",
+            "225"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Odd One Out",
+        "DESCRIBE": "64, 125 and 216 are perfect cubes. 225 is not."
+    },
+    {
+        "id": 1005,
+        "q": "Three of the following words are alike in a certain way and one is different. Pick the odd one out.",
+        "opts": [
+            "Triangle",
+            "Square",
+            "Rectangle",
+            "Circle"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Odd One Out",
+        "DESCRIBE": "Triangle, Square and Rectangle are polygons. Circle is not."
+    },
+    {
+        "id": 1006,
+        "q": "Three of the following letter-clusters are alike in a certain way and one is different. Pick the odd one out.",
+        "opts": [
+            "ACE",
+            "GIK",
+            "MOQ",
+            "FGH"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Odd One Out",
+        "DESCRIBE": "ACE, GIK and MOQ follow a +2 pattern. FGH follows a +1 pattern."
+    },
+    {
+        "id": 1007,
+        "q": "'Doctor' is related to 'Hospital' in the same way as 'Teacher' is related to '******'.",
+        "opts": [
+            "Book",
+            "School",
+            "Student",
+            "Class"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Doctor works in a Hospital; Teacher works in a School."
+    },
+    {
+        "id": 1008,
+        "q": "'Bird' is related to 'Nest' in the same way as 'Lion' is related to '******'.",
+        "opts": [
+            "Cave",
+            "Den",
+            "Forest",
+            "Jungle"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Nest is the dwelling of a Bird. Den is the dwelling of a Lion."
+    },
+    {
+        "id": 1009,
+        "q": "'Pen' is related to 'Write' in the same way as 'Knife' is related to '______'.",
+        "opts": [
+            "Cut",
+            "Sharp",
+            "Steel",
+            "Edge"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Word Analogy",
+        "DESCRIBE": "Pen is used to write. Knife is used to cut."
+    },
+    {
+        "id": 1010,
+        "q": "If CODE is written as DPEF, then how will MATH be written?",
+        "opts": [
+            "NBUI",
+            "NBTH",
+            "MBUJ",
+            "OBUI"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Each letter is shifted forward by one position."
+    },
+    {
+        "id": 1011,
+        "q": "If CAT is coded as 24, then DOG will be coded as:",
+        "opts": [
+            "26",
+            "25",
+            "30",
+            "28"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "C+A+T = 3+1+20 = 24. D+O+G = 4+15+7 = 26."
+    },
+    {
+        "id": 1012,
+        "q": "In a code language, DELHI is written as IHLDE. How will MUMBAI be written?",
+        "opts": [
+            "ABIMUM",
+            "IABMUM",
+            "IABMMU",
+            "ABIMUM"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Coding-Decoding",
+        "DESCRIBE": "Letters are written in reverse order."
+    },
+    {
+        "id": 1013,
+        "q": "Which two signs should be interchanged to make the equation correct? 8 + 4 × 6 − 2 = 20",
+        "opts": [
+            "+ and ×",
+            "− and ×",
+            "+ and −",
+            "× and ÷"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "Interchanging + and − makes the equation correct."
+    },
+    {
+        "id": 1014,
+        "q": "If '+' means '−' and '−' means '+', then 18 + 6 − 4 = ?",
+        "opts": [
+            "20",
+            "8",
+            "16",
+            "28"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "18 − 6 + 4 = 16."
+    },
+    {
+        "id": 1015,
+        "q": "Which two signs should be interchanged to make the equation correct? 15 − 5 + 10 ÷ 2 = 5",
+        "opts": [
+            "+ and ÷",
+            "− and ÷",
+            "+ and −",
+            "× and ÷"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Mathematical Operations",
+        "DESCRIBE": "After interchanging + and ÷, the equation becomes correct."
+    },
+    {
+        "id": 1016,
+        "q": "Select the combination of letters that when sequentially placed in the gaps completes the series. ab_cab_ca_cab",
+        "opts": [
+            "abc",
+            "bca",
+            "cab",
+            "acb"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "The repeating pattern is 'abc'."
+    },
+    {
+        "id": 1017,
+        "q": "Select the combination of letters that when sequentially placed in the gaps completes the series. mn_o_mn_o_mn",
+        "opts": [
+            "op",
+            "pq",
+            "no",
+            "on"
+        ],
+        "ans": 4,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "The repeating pattern is 'mno'."
+    },
+    {
+        "id": 1018,
+        "q": "Which letter will replace the question mark? A, C, F, J, O, ?",
+        "opts": [
+            "U",
+            "V",
+            "W",
+            "X"
+        ],
+        "ans": 1,
+        "section": "REASONING",
+        "topic": "Letter Series",
+        "DESCRIBE": "Differences are +2, +3, +4, +5, so next is +6. O + 6 = U."
+    },
+    {
+        "id": 1019,
+        "q": "Which number will replace the question mark? 2, 6, 12, 20, 30, ?",
+        "opts": [
+            "40",
+            "42",
+            "44",
+            "48"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "Pattern: n(n+1). Next term = 6×7 = 42."
+    },
+    {
+        "id": 1020,
+        "q": "Which number will replace the question mark? 5, 11, 23, 47, ?",
+        "opts": [
+            "91",
+            "95",
+            "97",
+            "99"
+        ],
+        "ans": 2,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "Pattern: ×2 +1. 47×2+1 = 95."
+    },
+    {
+        "id": 1021,
+        "q": "Find the next number in the series. 1, 4, 9, 16, 25, ?",
+        "opts": [
+            "30",
+            "35",
+            "36",
+            "49"
+        ],
+        "ans": 3,
+        "section": "REASONING",
+        "topic": "Number Series",
+        "DESCRIBE": "Series of perfect squares: 1², 2², 3², 4², 5², 6²."
+    }
+]
