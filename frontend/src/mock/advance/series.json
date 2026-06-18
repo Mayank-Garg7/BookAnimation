@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3401,
+    "q": "Find the next term in the series: 2, 6, 12, 20, 30, ?",
+    "opts": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Pattern: n(n+1). 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42."
+  },
+  {
+    "id": 3402,
+    "q": "Find the missing term: 3, 8, 15, 24, 35, ?",
+    "opts": [
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Pattern: n²−1. Next term = 7²−1 = 48."
+  },
+  {
+    "id": 3403,
+    "q": "Find the next term: 1, 4, 9, 16, 25, ?",
+    "opts": [
+      "30",
+      "34",
+      "36",
+      "49"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Perfect squares: 1², 2², 3², 4², 5², 6²."
+  },
+  {
+    "id": 3404,
+    "q": "Find the next term: 5, 10, 20, 40, 80, ?",
+    "opts": [
+      "120",
+      "140",
+      "160",
+      "180"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Each term is multiplied by 2."
+  },
+  {
+    "id": 3405,
+    "q": "Find the missing term: 7, 14, 28, 56, ?, 224",
+    "opts": [
+      "96",
+      "102",
+      "112",
+      "120"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Each term is multiplied by 2. 56 × 2 = 112."
+  },
+  {
+    "id": 3406,
+    "q": "Find the next term: 2, 3, 5, 8, 13, 21, ?",
+    "opts": [
+      "29",
+      "31",
+      "34",
+      "35"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Fibonacci pattern: next = sum of previous two terms."
+  },
+  {
+    "id": 3407,
+    "q": "Find the next term: A, C, F, J, O, ?",
+    "opts": [
+      "T",
+      "U",
+      "V",
+      "W"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Letter positions: +2, +3, +4, +5, +6. O+6=U."
+  },
+  {
+    "id": 3408,
+    "q": "Find the missing term: 121, 144, 169, 196, ?",
+    "opts": [
+      "225",
+      "256",
+      "289",
+      "324"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Squares: 11², 12², 13², 14², 15²."
+  },
+  {
+    "id": 3409,
+    "q": "Find the next term: 1, 8, 27, 64, 125, ?",
+    "opts": [
+      "196",
+      "216",
+      "225",
+      "256"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Cubes: 1³, 2³, 3³, 4³, 5³, 6³."
+  },
+  {
+    "id": 3410,
+    "q": "Find the next term: 4, 9, 19, 39, 79, ?",
+    "opts": [
+      "119",
+      "139",
+      "159",
+      "169"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Multiply by 2 and add 1: 79×2+1 = 159."
+  },
+  {
+    "id": 3411,
+    "q": "Find the next term: Z, X, U, Q, L, ?",
+    "opts": [
+      "F",
+      "G",
+      "H",
+      "I"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Letter positions decrease by 2,3,4,5,6 respectively. L−6 = F."
+  },
+  {
+    "id": 3412,
+    "q": "Find the next term: 3, 7, 15, 31, 63, ?",
+    "opts": [
+      "95",
+      "111",
+      "127",
+      "135"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Multiply by 2 and add 1."
+  },
+  {
+    "id": 3413,
+    "q": "Find the missing term: 10, 13, 18, 25, 34, ?",
+    "opts": [
+      "43",
+      "45",
+      "46",
+      "47"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Differences: +3, +5, +7, +9, +11."
+  },
+  {
+    "id": 3414,
+    "q": "Find the next term: 2, 5, 10, 17, 26, ?",
+    "opts": [
+      "35",
+      "37",
+      "39",
+      "41"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Pattern: n²+1. Next = 6²+1 = 37."
+  },
+  {
+    "id": 3415,
+    "q": "Find the next term: B, E, J, Q, Z, ?",
+    "opts": [
+      "K",
+      "L",
+      "M",
+      "N"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Positions: 2,5,10,17,26. Differences: +3,+5,+7,+9. Next +11 → 37. 37−26=11 → K."
+  },
+  {
+    "id": 3416,
+    "q": "Find the next term: 6, 11, 21, 41, 81, ?",
+    "opts": [
+      "121",
+      "141",
+      "161",
+      "171"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Multiply by 2 and subtract 1."
+  },
+  {
+    "id": 3417,
+    "q": "Find the missing term: 5, 12, 21, 32, 45, ?",
+    "opts": [
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Differences: +7,+9,+11,+13,+15."
+  },
+  {
+    "id": 3418,
+    "q": "Find the next term: 1, 2, 6, 24, 120, ?",
+    "opts": [
+      "360",
+      "480",
+      "600",
+      "720"
+    ],
+    "ans": 4,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Factorial series: 1!, 2!, 3!, 4!, 5!, 6!."
+  },
+  {
+    "id": 3419,
+    "q": "Find the next term: 64, 32, 16, 8, 4, ?",
+    "opts": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Each term is divided by 2."
+  },
+  {
+    "id": 3420,
+    "q": "Find the next term: 2, 12, 36, 80, 150, ?",
+    "opts": [
+      "240",
+      "252",
+      "294",
+      "320"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Series",
+    "DESCRIBE": "Pattern: n³ + n². 1³+1²=2, 2³+2²=12, 3³+3²=36, 4³+4²=80, 5³+5²=150, 6³+6²=252."
+  }
+]

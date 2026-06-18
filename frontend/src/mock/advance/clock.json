@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3701,
+    "q": "At what time between 3 and 4 o'clock will the hands of a clock coincide?",
+    "opts": [
+      "3:16 4/11",
+      "3:15",
+      "3:18 2/11",
+      "3:20"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Coincidence after h o'clock = (60h/11) minutes. For h=3, time = 3:16 4/11."
+  },
+  {
+    "id": 3702,
+    "q": "At what time between 5 and 6 o'clock are the hands of a clock at right angles for the first time?",
+    "opts": [
+      "5:05 5/11",
+      "5:16 4/11",
+      "5:21 9/11",
+      "5:27 3/11"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Right angle formula: (30h ± 90)/5.5. First occurrence after 5 = 5:05 5/11."
+  },
+  {
+    "id": 3703,
+    "q": "How many times do the hands of a clock coincide in a day?",
+    "opts": [
+      "22",
+      "24",
+      "11",
+      "12"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hands coincide 11 times in 12 hours, therefore 22 times in 24 hours."
+  },
+  {
+    "id": 3704,
+    "q": "At what time between 7 and 8 o'clock will the hands be exactly opposite?",
+    "opts": [
+      "7:05 5/11",
+      "7:38 2/11",
+      "7:43 7/11",
+      "7:49 1/11"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Opposite angle formula: (30h + 180)/5.5. For h=7, time = 7:38 2/11."
+  },
+  {
+    "id": 3705,
+    "q": "What is the angle between the hands at 4:20?",
+    "opts": [
+      "10°",
+      "20°",
+      "30°",
+      "40°"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 130°, minute hand = 120°. Difference = 10°."
+  },
+  {
+    "id": 3706,
+    "q": "At what time between 8 and 9 o'clock do the hands coincide?",
+    "opts": [
+      "8:40",
+      "8:43 7/11",
+      "8:44",
+      "8:45"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Coincidence time = 60h/11. For h=8, time = 8:43 7/11."
+  },
+  {
+    "id": 3707,
+    "q": "The angle between the hands of a clock at 6:00 is:",
+    "opts": [
+      "0°",
+      "90°",
+      "180°",
+      "270°"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "At 6:00, minute hand is at 12 and hour hand at 6. Angle = 180°."
+  },
+  {
+    "id": 3708,
+    "q": "How many times are the hands at right angles in a day?",
+    "opts": [
+      "22",
+      "24",
+      "44",
+      "48"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hands form right angles 22 times in 12 hours, hence 44 times in a day."
+  },
+  {
+    "id": 3709,
+    "q": "What is the angle between the hands at 2:30?",
+    "opts": [
+      "60°",
+      "75°",
+      "90°",
+      "105°"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 75°, minute hand = 180°. Difference = 105°. Smaller angle = 105°."
+  },
+  {
+    "id": 3710,
+    "q": "At what time between 1 and 2 o'clock will the hands be opposite?",
+    "opts": [
+      "1:38 2/11",
+      "1:49 1/11",
+      "1:54 6/11",
+      "1:44 5/11"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Opposite angle formula gives 1:49 1/11."
+  },
+  {
+    "id": 3711,
+    "q": "What is the angle between the hands at 9:15?",
+    "opts": [
+      "172.5°",
+      "175°",
+      "177.5°",
+      "180°"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 277.5°, minute hand = 90°. Difference = 187.5°. Smaller angle = 172.5°."
+  },
+  {
+    "id": 3712,
+    "q": "How many times do the hands become opposite in a day?",
+    "opts": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hands are opposite 11 times in 12 hours and 22 times in a day."
+  },
+  {
+    "id": 3713,
+    "q": "At what time between 10 and 11 o'clock do the hands coincide?",
+    "opts": [
+      "10:50 10/11",
+      "10:54 6/11",
+      "10:55",
+      "10:56 2/11"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Coincidence time = 60×10/11 = 54 6/11 minutes."
+  },
+  {
+    "id": 3714,
+    "q": "What is the angle between the hands at 5:40?",
+    "opts": [
+      "50°",
+      "60°",
+      "70°",
+      "80°"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 170°, minute hand = 240°. Difference = 70°."
+  },
+  {
+    "id": 3715,
+    "q": "At what time between 4 and 5 o'clock are the hands at right angles for the first time?",
+    "opts": [
+      "4:00",
+      "4:16 4/11",
+      "4:21 9/11",
+      "4:27 3/11"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Right angle formula gives first occurrence at 4:21 9/11."
+  },
+  {
+    "id": 3716,
+    "q": "What is the angle between the hands at 12:20?",
+    "opts": [
+      "100°",
+      "110°",
+      "120°",
+      "130°"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 10°, minute hand = 120°. Difference = 110°."
+  },
+  {
+    "id": 3717,
+    "q": "At what time between 11 and 12 o'clock will the hands coincide?",
+    "opts": [
+      "11:54 6/11",
+      "11:58",
+      "11:59",
+      "11:50"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Coincidence time = 60×11/11 = 60 minutes ≈ 11:54 6/11 before next hour."
+  },
+  {
+    "id": 3718,
+    "q": "What is the reflex angle between the hands at 3:00?",
+    "opts": [
+      "90°",
+      "180°",
+      "270°",
+      "300°"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Smaller angle = 90°. Reflex angle = 360° − 90° = 270°."
+  },
+  {
+    "id": 3719,
+    "q": "At what time between 2 and 3 o'clock will the hands be opposite?",
+    "opts": [
+      "2:43 7/11",
+      "2:49 1/11",
+      "2:54 6/11",
+      "2:38 2/11"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Using opposite angle formula, time = 2:43 7/11."
+  },
+  {
+    "id": 3720,
+    "q": "What is the smaller angle between the hands at 8:24?",
+    "opts": [
+      "108°",
+      "132°",
+      "144°",
+      "156°"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Clock",
+    "DESCRIBE": "Hour hand = 252°, minute hand = 144°. Difference = 108°."
+  }
+]

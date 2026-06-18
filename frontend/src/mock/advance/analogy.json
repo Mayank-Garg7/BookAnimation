@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3301,
+    "q": "Doctor : Hospital :: Teacher : ?",
+    "opts": [
+      "Student",
+      "School",
+      "Book",
+      "Class"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "A doctor works in a hospital, similarly a teacher works in a school."
+  },
+  {
+    "id": 3302,
+    "q": "Bird : Nest :: Lion : ?",
+    "opts": [
+      "Jungle",
+      "Den",
+      "Cave",
+      "Forest"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Nest is the dwelling place of a bird, den is the dwelling place of a lion."
+  },
+  {
+    "id": 3303,
+    "q": "Pride : Lion :: Pack : ?",
+    "opts": [
+      "Elephant",
+      "Wolf",
+      "Tiger",
+      "Horse"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "A group of lions is called a pride, a group of wolves is called a pack."
+  },
+  {
+    "id": 3304,
+    "q": "Odometer : Distance :: Thermometer : ?",
+    "opts": [
+      "Pressure",
+      "Temperature",
+      "Speed",
+      "Heat"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "An odometer measures distance, a thermometer measures temperature."
+  },
+  {
+    "id": 3305,
+    "q": "Cube : 216 :: Square : ?",
+    "opts": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "216 = 6³, similarly 36 = 6²."
+  },
+  {
+    "id": 3306,
+    "q": "BC : EF :: GH : ?",
+    "opts": [
+      "JK",
+      "KL",
+      "LM",
+      "MN"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Each letter is shifted by +3 positions. GH → JK."
+  },
+  {
+    "id": 3307,
+    "q": "Pen : Write :: Knife : ?",
+    "opts": [
+      "Cut",
+      "Draw",
+      "Paint",
+      "Read"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Pen is used to write, knife is used to cut."
+  },
+  {
+    "id": 3308,
+    "q": "Heart : Circulatory System :: Brain : ?",
+    "opts": [
+      "Digestive System",
+      "Respiratory System",
+      "Nervous System",
+      "Excretory System"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Heart belongs to circulatory system, brain belongs to nervous system."
+  },
+  {
+    "id": 3309,
+    "q": "Mango : Fruit :: Spinach : ?",
+    "opts": [
+      "Leaf",
+      "Vegetable",
+      "Plant",
+      "Food"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Mango is a fruit, spinach is a vegetable."
+  },
+  {
+    "id": 3310,
+    "q": "243 : 5 :: 1024 : ?",
+    "opts": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "243 = 3⁵, 1024 = 4⁵. Hence answer is 5."
+  },
+  {
+    "id": 3311,
+    "q": "Wheel : Bicycle :: Propeller : ?",
+    "opts": [
+      "Ship",
+      "Car",
+      "Train",
+      "Bus"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Wheel is an essential part of a bicycle, propeller is an essential part of a ship."
+  },
+  {
+    "id": 3312,
+    "q": "AGMS : BHNT :: CIOU : ?",
+    "opts": [
+      "DJPV",
+      "DKPV",
+      "DJQW",
+      "EJQV"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Each letter is shifted by +1. CIOU → DJPV."
+  },
+  {
+    "id": 3313,
+    "q": "January : Month :: Monday : ?",
+    "opts": [
+      "Year",
+      "Week",
+      "Day",
+      "Calendar"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "January is a type of month, Monday is a type of day."
+  },
+  {
+    "id": 3314,
+    "q": "Water : Hydrogen :: Salt : ?",
+    "opts": [
+      "Sodium",
+      "Chlorine",
+      "Sodium Chloride",
+      "Mineral"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Water is composed of hydrogen and oxygen; salt is sodium chloride."
+  },
+  {
+    "id": 3315,
+    "q": "7 : 49 :: 11 : ?",
+    "opts": [
+      "111",
+      "121",
+      "131",
+      "141"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "49 = 7². Similarly, 121 = 11²."
+  },
+  {
+    "id": 3316,
+    "q": "Democracy : People :: Monarchy : ?",
+    "opts": [
+      "King",
+      "Minister",
+      "Parliament",
+      "Army"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Democracy is ruled by people, monarchy is ruled by a king."
+  },
+  {
+    "id": 3317,
+    "q": "Copper : Conductor :: Rubber : ?",
+    "opts": [
+      "Insulator",
+      "Metal",
+      "Wire",
+      "Current"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Copper is a conductor, rubber is an insulator."
+  },
+  {
+    "id": 3318,
+    "q": "8 : 512 :: 12 : ?",
+    "opts": [
+      "144",
+      "1296",
+      "1728",
+      "2197"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "512 = 8³. Similarly, 12³ = 1728."
+  },
+  {
+    "id": 3319,
+    "q": "Author : Book :: Composer : ?",
+    "opts": [
+      "Song",
+      "Music",
+      "Instrument",
+      "Singer"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "An author writes a book, a composer creates a song/music piece."
+  },
+  {
+    "id": 3320,
+    "q": "ABCD : BCDE :: WXYZ : ?",
+    "opts": [
+      "XYZA",
+      "XYZA",
+      "YZAB",
+      "XYAB"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Analogy",
+    "DESCRIBE": "Each letter is shifted by +1. WXYZ → XYZA."
+  }
+]

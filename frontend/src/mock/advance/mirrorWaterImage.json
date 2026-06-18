@@ -1,0 +1,282 @@
+[
+  {
+    "id": 3901,
+    "q": "If the word 'HOUSE' is written as its mirror image, what will be the correct mirror form?",
+    "opts": [
+      "ƎSƧOH",
+      "ƎSƧOU",
+      "ƎSOƧH",
+      "ƎSƧOH"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror image reverses left-right order of letters. HOUSE → ESUOH (mirror stylized)."
+  },
+  {
+    "id": 3902,
+    "q": "If the word 'BRIGHT' is written in mirror image, what is the correct order?",
+    "opts": [
+      "THGIRB",
+      "THGIRƂ",
+      "THGIRƎ",
+      "THGIRƧ"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses order: BRIGHT → THGIRB."
+  },
+  {
+    "id": 3903,
+    "q": "Which of the following is the correct water image of a letter sequence?",
+    "opts": [
+      "Water image flips vertically (top-bottom)",
+      "Water image flips left-right",
+      "Water image rotates 90° clockwise",
+      "Water image does not change"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image is vertical inversion (top-bottom reflection)."
+  },
+  {
+    "id": 3904,
+    "q": "If 'MIRROR' is written in water image, what happens to the word?",
+    "opts": [
+      "It reverses left-right",
+      "It flips upside down",
+      "It rotates 180°",
+      "It remains same"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image flips the object vertically (upside down reflection)."
+  },
+  {
+    "id": 3905,
+    "q": "If 'TABLE' is written in mirror image, what is the correct form?",
+    "opts": [
+      "ELBAT",
+      "EBLAT",
+      "ETBAL",
+      "ELBTA"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses order: TABLE → ELBAT."
+  },
+  {
+    "id": 3906,
+    "q": "Which letter remains unchanged in both mirror and water images?",
+    "opts": [
+      "B",
+      "D",
+      "O",
+      "P"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Letter O is symmetric in both horizontal and vertical reflections."
+  },
+  {
+    "id": 3907,
+    "q": "If '1234' is written in mirror image, what will be the correct form?",
+    "opts": [
+      "4321",
+      "1432",
+      "2341",
+      "3214"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror image reverses order: 1234 → 4321."
+  },
+  {
+    "id": 3908,
+    "q": "If 'DOG' is written in water image, what happens to the order?",
+    "opts": [
+      "DOG",
+      "GOD",
+      "OGD",
+      "DGO"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image does not change left-right order; only vertical flipping."
+  },
+  {
+    "id": 3909,
+    "q": "Which is the mirror image of 'CIVIL'?",
+    "opts": [
+      "LIVIC",
+      "LIVIC",
+      "CIVIL",
+      "LIVIC"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses order: CIVIL → LIVIC."
+  },
+  {
+    "id": 3910,
+    "q": "If 'WATER' is written in mirror image, what is the correct form?",
+    "opts": [
+      "RETAW",
+      "RETAƜ",
+      "RETAW",
+      "WATER"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses letters: WATER → RETAW."
+  },
+  {
+    "id": 3911,
+    "q": "What happens to the letter 'M' in water image?",
+    "opts": [
+      "It becomes inverted vertically",
+      "It remains same",
+      "It reverses order",
+      "It disappears"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image flips vertically, but symmetry may keep some letters same depending on shape."
+  },
+  {
+    "id": 3912,
+    "q": "If 'EARTH' is written in mirror image, what is the correct form?",
+    "opts": [
+      "HTRAE",
+      "EARTH",
+      "HTRAƎ",
+      "HƎRTA"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses order: EARTH → HTRAE."
+  },
+  {
+    "id": 3913,
+    "q": "In water image, which direction does the image shift?",
+    "opts": [
+      "Left-right",
+      "Top-bottom",
+      "Diagonal",
+      "No shift"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image is vertical reflection (top-bottom flip)."
+  },
+  {
+    "id": 3914,
+    "q": "If 'INDIA' is written in mirror image, what is the result?",
+    "opts": [
+      "AIDNI",
+      "INDIA",
+      "AIDƎN",
+      "ADINI"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror reverses order: INDIA → AIDNI."
+  },
+  {
+    "id": 3915,
+    "q": "Which of the following is the water image of 'UP'?",
+    "opts": [
+      "UP",
+      "ƎD",
+      "ǷM",
+      "PU"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image flips vertically, so letters appear inverted forms."
+  },
+  {
+    "id": 3916,
+    "q": "If 'LEVEL' is written in mirror image, what is the result?",
+    "opts": [
+      "LEVEL",
+      "LEVEL reversed",
+      "LEVEL unchanged",
+      "LEVEƎ"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "LEVEL is palindrome, so mirror image appears same in order."
+  },
+  {
+    "id": 3917,
+    "q": "Which letter looks same in mirror image?",
+    "opts": [
+      "B",
+      "D",
+      "M",
+      "P"
+    ],
+    "ans": 3,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Letter M is vertically symmetrical in many standard fonts."
+  },
+  {
+    "id": 3918,
+    "q": "If 'NOON' is written in mirror image, what happens?",
+    "opts": [
+      "NOON",
+      "NOON reversed",
+      "ONNO",
+      "NNOO"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "NOON is palindrome, so mirror image remains same."
+  },
+  {
+    "id": 3919,
+    "q": "Water image of 'BAT' will be:",
+    "opts": [
+      "BAT",
+      "ƧAƂ",
+      "TAB",
+      "ATB"
+    ],
+    "ans": 2,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Water image flips vertically; letters appear inverted."
+  },
+  {
+    "id": 3920,
+    "q": "In mirror image, the sequence 'ABCDEF' becomes:",
+    "opts": [
+      "FEDCBA",
+      "ABCDEF",
+      "FDEABC",
+      "EDCFAB"
+    ],
+    "ans": 1,
+    "section": "REASONING",
+    "topic": "Mirror/Water Image",
+    "DESCRIBE": "Mirror image reverses order: ABCDEF → FEDCBA."
+  }
+]
