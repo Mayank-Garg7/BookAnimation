@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 
 router = APIRouter(
-    prefix="teachers_routes",
+    prefix="/teachers",
     tags="teachers"
 )
 
