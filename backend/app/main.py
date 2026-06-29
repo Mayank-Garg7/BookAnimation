@@ -18,6 +18,9 @@ def about():
 @app.get("/{id}")
 def details_according_id(id:int):
     return {"student_id": id}
+@app.get("/{student_id}/{subject_id}")
+def details_of_subject(student_id: int, subject_id: int):
+    return {"student_id": student_id, "subject_id": subject_id}
 
 #include routers
 app.include_router(students_router)
