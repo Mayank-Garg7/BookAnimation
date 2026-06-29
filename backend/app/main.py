@@ -11,7 +11,11 @@ def home():
     return {"message": "hello! mayank"}
 
 
-# PATH PARAMTER
+# PATH PARAMTER:- Represents the identity of a resource.
+# Example
+# /students/5
+# Meaning
+# Student number 5.
 # SINGLE PATH PARAMETER
 @app.get("/{id}")
 def details_according_id(id:int):
@@ -23,7 +27,11 @@ def details_of_subject(student_id: int, subject_id: int):
     return {"student_id": student_id, "subject_id": subject_id}
 
 
-# QUERY PARAMETER
+# QUERY PARAMETER:- Represents filtering, sorting, or searching.
+# Example
+# /students?age=20
+# Meaning
+# Show students whose age is 20.
 @app.get("/about")
 def based_on_name(age: int):
     return {"age": age}
