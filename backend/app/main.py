@@ -57,6 +57,20 @@ def get_age(
         "age": age
     }
 
+
+
+# Use Both Together
+@app.get("/about/{student_id}")
+def filtered_data(
+    student_id: int,
+    show_marks: bool = False
+):
+    return {
+        "student": student_id,
+        "show_marks": show_marks
+    }
+
+
 #include routers
 app.include_router(students_router)
 app.include_router(teachers_router)
