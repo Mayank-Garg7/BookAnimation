@@ -30,8 +30,8 @@ def based_on_name(age: int):
 
 
 # Multiple Query Parameters
-@app.get("/students")
-def get_students(
+@app.get("/about")
+def get_data(
     age: int,
     department: str
 ):
@@ -40,6 +40,14 @@ def get_students(
         "department": department
     }
 
+# Optional query parameter
+@app.get("/contact")
+def get_age(
+    age: int | None = None
+):
+    return {
+        "age": age
+    }
 
 #include routers
 app.include_router(students_router)
