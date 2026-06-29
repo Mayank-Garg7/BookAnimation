@@ -23,10 +23,22 @@ def details_of_subject(student_id: int, subject_id: int):
     return {"student_id": student_id, "subject_id": subject_id}
 
 
-# QUERY PATAMETER
+# QUERY PARAMETER
 @app.get("/about")
-def based_on_condition(age: int):
+def based_on_name(age: int):
     return {"age": age}
+
+
+# Multiple Query Parameters
+@app.get("/students")
+def get_students(
+    age: int,
+    department: str
+):
+    return {
+        "age": age,
+        "department": department
+    }
 
 
 #include routers
