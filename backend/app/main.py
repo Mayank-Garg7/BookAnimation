@@ -10,9 +10,23 @@ app = FastAPI(docs_url="/swagger", redoc_url="/documentation")
 def home():
     return {"message": "hello! mayank"}
 
+
+# PATH PARAMTER
+# SINGLE PATH PARAMETER
+@app.get("/{id}")
+def details_according_id(id:int):
+    return {"student_id": id}
+
+# MULTIPLE PATH PARAMETER
+@app.get("/{student_id}/{subject_id}")
+def details_of_subject(student_id: int, subject_id: int):
+    return {"student_id": student_id, "subject_id": subject_id}
+
+
+# QUERY PATAMETER
 @app.get("/about")
-def about():
-    return {"message": "this message is from about page"}
+def based_on_condition(age: int):
+    return {"age": age}
 
 
 #include routers
