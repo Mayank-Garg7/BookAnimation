@@ -15,6 +15,10 @@ def about():
     return {"message": "this message is from about page"}
 
 
+@app.get("/{id}")
+def details_according_id(id:int):
+    return {"student_id": id}
+
 #include routers
 app.include_router(students_router)
 app.include_router(teachers_router)
