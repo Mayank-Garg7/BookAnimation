@@ -2,6 +2,7 @@ from fastapi import FastAPI
 
 from app.routes.students import router as students_router
 from app.routes.teachers import router as teachers_router
+from app.shcema.student import createStudent
 
 
 app = FastAPI(docs_url="/swagger", redoc_url="/documentation")
@@ -74,3 +75,12 @@ def filtered_data(
 #include routers
 app.include_router(students_router)
 app.include_router(teachers_router)
+
+
+
+@app.post("/")
+def add_student(student: createStudent):
+    return {
+        "message": "student has been added successfully",
+        "student": student
+    }
