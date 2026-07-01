@@ -78,7 +78,7 @@ app.include_router(teachers_router)
 
 
 
-@app.post("/")
+@app.post("/student")
 def add_student(student: createStudent):
     return {
         "message": "student has been added successfully",
