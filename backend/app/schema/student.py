@@ -2,23 +2,23 @@ from pydantic import BaseModel, Field, EmailStr
 
 
 
-class studentBase(BaseModel):
-    name: str = Field(min_length=5, max_length=30, description="full name", examples="Mayank Garg") 
+class StudentBase(BaseModel):
+    name: str = Field(min_length=5, max_length=30, description="full name", example="Mayank Garg") 
     age: int = Field(ge=18, le=60)
     email: EmailStr 
     department: str
 
-class createStudent (studentBase):
+class StudentCreate (StudentBase):
     pass
 
-class updateStudent (BaseModel):
+class StudentUpdate (BaseModel):
     name: str | None = Field(default=None, min_length=5, max_length=30, description="full name", examples="Mayank Garg") 
     age: int | None = Field(default=None, ge=18, le=60) 
     email: EmailStr | None = None
     department: str | None = None
     
 
-class responseStudent(BaseModel):
+class StudentCreate (StudentBase):
     id: int
-    isActive: bool
+    is_active: bool
 
