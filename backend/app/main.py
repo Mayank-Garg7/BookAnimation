@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 from app.routes.students import router as students_router
 from app.routes.teachers import router as teachers_router
-from app.shcema.student import createStudent
+from app.schema.student import createStudent
 
 
 app = FastAPI(docs_url="/swagger", redoc_url="/documentation")
